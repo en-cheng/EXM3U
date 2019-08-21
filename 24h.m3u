@@ -44,6 +44,45 @@ https://aldirect.hls.huya.com/huyalive/94525224-2472045388-10617354095687630848-
 #EXTINF:-1,甄子丹
 https://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200.m3u8
 
+#EXTINF:-1,北京影视
+http://101.89.132.136:80/live/tm-btv4-4000k.m3u8
+#EXTINF:-1,北京纪实
+http://101.89.132.136:80/live/tm-btvjishihd-4000k.m3u8
+#EXTINF:-1,北京文艺
+http://101.89.132.136:80/live/tm-btv2hd-4000k.m3u8
+#EXTINF:-1,北京新闻
+http://101.89.132.136:80/live/tm-btv9-4000k.m3u8
+#EXTINF:-1,北京卫视
+http://101.89.132.136:80/live/tm-btv1hd-4000k.m3u8
+#EXTINF:-1,安徽卫视
+http://101.89.132.136:80/live/tm-ahwshd-4000k.m3u8
+#EXTINF:-1,东方卫视
+http://101.89.132.136:80/live/tm-dfwshd-4000k.m3u8
+#EXTINF:-1,深圳卫视
+http://101.89.132.136:80/live/tm-shenzhenhd-4000k.m3u8
+#EXTINF:-1,广东卫视
+http://101.89.132.136:80/live/tm-guangdonghd-4000k.m3u8
+#EXTINF:-1,黑龙江卫视
+http://101.89.132.136:80/live/tm-heilongjianghd-4000k.m3u8
+#EXTINF:-1,辽宁卫视
+http://101.89.132.136:80/live/tm-liaoninghd-4000k.m3u8
+#EXTINF:-1,上海电视剧
+http://101.89.132.179/live/tm-shdsj-4000k.m3u8
+#EXTINF:-1,喜剧影院
+http://101.89.132.179/live/tm-yg1xjyy-1200k.m3u8
+#EXTINF:-1,电影
+http://101.89.132.179/live/tm-yg1dypd-1200k.m3u8
+#EXTINF:-1,情感影院
+http://101.89.132.179/live/tm-yg1qgyy-1200k.m3u8
+#EXTINF:-1,动作影院
+http://101.89.132.179/live/tm-yg1dzyy-1200k.m3u8
+#EXTINF:-1,精品影院
+http://101.89.132.179/live/tm-yg1jpyy-1200k.m3u8
+#EXTINF:-1,经典剧场
+http://101.89.132.179/live/tm-yg1jdjc-1200k.m3u8
+#EXTINF:-1,骄阳剧场
+http://101.89.132.179/live/tm-yg1jyjc-1200k.m3u8
+
 #EXTINF:-1,港TVB HD1
 http://wslive-o-hdl.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6.flv
 #EXTINF:-1,港TVB HD2
