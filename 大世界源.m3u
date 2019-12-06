@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,====== 央视频道,#genre# ======
-http://0/0.m3u8
 #EXTINF:-1 ,CCTV-1综合HD
 http://39.135.36.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 #EXTINF:-1 ,CCTV-2财经
@@ -37,8 +35,6 @@ http://39.135.36.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ys
 http://39.135.36.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
 #EXTINF:-1 ,CCTV-17农村农业
 http://39.135.36.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
-#EXTINF:-1 ,====== 卫视频道,#genre# ======
-http://1/1.m3u8
 #EXTINF:-1 ,湖南卫视高清
 http://39.135.36.153:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
 #EXTINF:-1 ,北京卫视高清
@@ -101,8 +97,6 @@ http://39.135.36.145:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ys
 http://39.135.36.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
 #EXTINF:-1 ,广东体育
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=20&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,====== 港台影视,#genre# ======
-http://2/2.m3u8
 #EXTINF:-1 ,靖天映画
 http://pili-live-hdl.qhmywl.com/dsdtv/4364abb0a9f358049a535f4692cd49b5.flv
 #EXTINF:-1 ,靖天电影台
@@ -209,8 +203,6 @@ rtmp://58.200.131.2:1935/livetv/chctv
 rtmp://58.200.131.2:1935/livetv/chcatv
 #EXTINF:-1 ,凤凰电影台
 rtmp://58.200.131.2:1935/livetv/fhdy
-#EXTINF:-1 ,====== 港台新闻,#genre# ======
-http://3/3.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 ,凤凰资讯
@@ -359,8 +351,6 @@ http://pili-live-hdl.qhmywl.com/dsdtv/891dfa401663622b29ab70c16ea2273e.flv
 http://pili-live-hdl.qhmywl.com/dsdtv/b4b4eb536ffc346864d2dcc03adedd85.flv
 #EXTINF:-1 ,NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 ,====== 港台体育,#genre# ======
-http://5/5.m3u8
 #EXTINF:-1 ,博斯高球1台
 http://pili-live-hdl.qhmywl.com/dsdtv/4870a14ca0496e434825594643eea173.flv
 #EXTINF:-1 ,博斯高球2台
@@ -393,8 +383,6 @@ http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv
 http://pili-live-hdl.qhmywl.com/dsdtv/3b88f91a420e6cd59cd034ccf2a05c10.flv
 #EXTINF:-1 ,StarSports
 rtmp://58.200.131.2:1935/livetv/starsports
-#EXTINF:-1 ,====== 亲子卡通,#genre# ======
-http://6/6.m3u8
 #EXTINF:-1 ,MOMO亲子台
 http://pili-live-hdl.qhmywl.com/dsdtv/0c795e6e7f8e067dd4110a57375a71b9.flv
 #EXTINF:-1 ,CN卡通频道
@@ -423,8 +411,6 @@ http://pili-live-hdl.qhmywl.com/dsdtv/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.flv
 http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.flv
 #EXTINF:-1 ,靖洋卡通台
 http://pili-live-hdl.qhmywl.com/dsdtv/8fa63f69fe90ce0597aa6d4b7c262810.flv
-#EXTINF:-1 ,====== 综合娱乐,#genre# ======
-http://7/7.m3u8
 #EXTINF:-1 ,明珠台
 http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv
 #EXTINF:-1 ,翡翠台
