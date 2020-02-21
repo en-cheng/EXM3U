@@ -1,0 +1,2877 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1 综合
+http://cctv.v.kcdnvip.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-1 综合
+http://cctv.v.kcdnvip.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-1 综合
+http://cctv.v.kcdnvip.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-1FHD
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8
+#EXTINF:-1 ,CCTV-1FHD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 ,CCTV-1FHD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226316/index.m3u8
+#EXTINF:-1 ,CCTV-1FHD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 ,CCTV-1FHD
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226316/index.m3u8
+#EXTINF:-1 ,CCTV1HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=029&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,CCTV-1HD
+http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8
+#EXTINF:-1 ,CCTV-1HD
+http://223.82.250.72/live/hdcctv01/1.m3u8
+#EXTINF:-1 ,CCTV-1HD
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226998/index.m3u8
+#EXTINF:-1 ,CCTV1综合
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 ,CCTV-1综合HD
+http://121.31.30.90:8085/ysten-business/live/cctv-1/yst.m3u8
+#EXTINF:-1 ,CCTV-1高清
+http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 ,CCTV-1高清
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 ,CCTV-1高清
+http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8
+#EXTINF:-1 ,CCTV2
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000196.m3u8
+#EXTINF:-1 ,CCTV-2
+http://hbpx.chinashadt.com:2036/live/px3.stream/playlist.m3u8
+#EXTINF:-1 ,CCTV-2
+http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8
+#EXTINF:-1 ,CCTV-2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 ,CCTV-2 财经
+http://cctv.v.myalicdn.com/live/cctv2_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-2 财经
+http://cctv.v.kcdnvip.com/live/cctv2_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-2 财经
+http://cctv.v.kcdnvip.com/live/cctv2_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-2 财经
+http://cctv.v.myalicdn.com/live/cctv2_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-2FHD
+http://117.148.187.37/PLTV/88888888/224/3221226138/index.m3u8
+#EXTINF:-1 ,CCTV-2FHD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8
+#EXTINF:-1 ,CCTV2HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=010&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,CCTV-2财经
+http://121.31.30.90:8085/ysten-business/live/cctv-2/yst.m3u8
+#EXTINF:-1 ,CCTV-2高清
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225974/index.m3u8
+#EXTINF:-1 ,CCTV-2高清
+http://117.169.120.140:8080/live/cctv-2/.m3u8
+#EXTINF:-1 ,CCTV-2高清
+http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8
+#EXTINF:-1 ,CCTV3
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000197.m3u8
+#EXTINF:-1 ,CCTV-3
+http://hnmc.chinashadt.com:3036/live/1003.stream/playlist.m3u8
+#EXTINF:-1 ,CCTV-3
+http://183.207.249.9/PLTV/3/224/3221225588/1.m3u8
+#EXTINF:-1 ,CCTV-3
+http://sdlqx.chinashadt.com:2036/live/CCTV3.stream/playlist.m3u8
+#EXTINF:-1 ,CCTV-3 综艺
+http://cctv.v.kcdnvip.com/live/cctv3_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-3 综艺
+http://cctv.v.kcdnvip.com/live/cctv3_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-3FHD
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226360/index.m3u8
+#EXTINF:-1 ,CCTV3HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=021&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,CCTV-3HD
+http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
+#EXTINF:-1 ,CCTV3综艺
+https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 ,CCTV-3综艺HD
+http://121.31.30.90:8085/ysten-business/live/cctv-3/yst.m3u8
+#EXTINF:-1 ,CCTV3高清
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 ,CCTV-3高清
+http://117.169.120.140:8080/live/cctv-3/.m3u8
+#EXTINF:-1 ,CCTV-3高清
+http://39.135.32.29:6610/000000001000/1000000001000011218/index.m3u8?i
+#EXTINF:-1 ,CCTV-3高清
+http://183.207.249.71/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 ,CCTV-3高清
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 ,CCTV-3高清
+http://39.135.32.29:6610/000000001000/1000000001000011218/index.m3u8?i
+#EXTINF:-1 ,CCTV-4
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1 ,CCTV-4
+http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
+#EXTINF:-1 ,CCTV-4
+http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
+#EXTINF:-1 ,CCTV-4 中文国际
+http://223.110.243.173/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1 ,CCTV-4 中文国际 欧洲
+http://cctv.v.kcdnvip.com/live/cctveurope_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-4 中文国际 欧洲
+http://cctv.v.kcdnvip.com/live/cctveurope_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-4 中文国际 欧洲
+http://cctv.v.kcdnvip.com/live/cctveurope_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-4 中文国际 美洲
+http://cctv.v.kcdnvip.com/live/cctvamerica_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-4 中文国际 美洲
+http://cctv.v.kcdnvip.com/live/cctvamerica_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-4 中文国际 美洲
+http://cctv.v.kcdnvip.com/live/cctvamerica_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-4 中文国际 美洲
+http://cctv.v.myalicdn.com/live/cctvamerica_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-4 中文国际 美洲
+http://cctv.v.myalicdn.com/live/cctvamerica_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV4HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=026&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,CCTV-4中文国际
+http://121.31.30.90:8085/ysten-business/live/cctv-4/yst.m3u8
+#EXTINF:-1 ,CCTV-4高清
+http://117.169.120.140:8080/live/cctv-4/.m3u8
+#EXTINF:-1 ,CCTV5
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000198.m3u8
+#EXTINF:-1 ,CCTV-5
+http://sdlqx.chinashadt.com:2036/live/CCTV5.stream/playlist.m3u8
+#EXTINF:-1 ,CCTV5+
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000201.m3u8
+#EXTINF:-1 ,CCTV-5+
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 ,CCTV-5+FHD
+http://223.110.245.139:80/PLTV/4/224/3221227480/index.m3u8
+#EXTINF:-1 ,CCTV5+HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=036&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,CCTV-5+HD
+http://223.82.250.72/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 ,CCTV-5+体育赛事HD
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
+#EXTINF:-1 ,CCTV-5FHD
+http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
+#EXTINF:-1 ,CCTV-5体育HD
+http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
+#EXTINF:-1 ,CCTV-5高清
+http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 ,CCTV-5高清
+http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+#EXTINF:-1 ,CCTV6
+http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 ,CCTV6
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000199.m3u8
+#EXTINF:-1 ,CCTV-6
+http://sdlqx.chinashadt.com:2036/live/CCTV6.stream/playlist.m3u8
+#EXTINF:-1 ,CCTV-6
+http://183.207.249.9/PLTV/3/224/3221225548/1.m3u8
+#EXTINF:-1 ,CCTV-6
+http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 ,CCTV-6 电影
+http://cctv.v.kcdnvip.com/live/cctv6_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-6 电影
+http://cctv.v.myalicdn.com/live/cctv6_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-6 电影
+http://cctv.v.myalicdn.com/live/cctv6_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-6-1080p-2
+http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 ,CCTV-6-1080p-3
+http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 ,CCTV-6FHD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 ,CCTV6HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=011&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,CCTV-6HD
+http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
+#EXTINF:-1 ,CCTV-6电影HD
+http://121.31.30.90:8085/ysten-business/live/cctv-6/yst.m3u8
+#EXTINF:-1 ,CCTV6电影频道
+http://223.82.250.72/live/cctv-6/1.m3u8
+#EXTINF:-1 ,CCTV-6高清
+http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 ,CCTV-6高清
+http://39.135.32.27:6610/000000001000/1000000001000001737/index.m3u8?i
+#EXTINF:-1 ,CCTV-6高清
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 ,CCTV-6高清
+http://39.135.32.27:6610/000000001000/1000000001000001737/index.m3u8?i
+#EXTINF:-1 ,CCTV-7
+http://183.207.249.9/PLTV/3/224/3221225546/1.m3u8
+#EXTINF:-1 ,CCTV-7
+http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
+#EXTINF:-1 ,CCTV-7 军事农业
+http://cctv.v.myalicdn.com/live/cctv7_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-7FHD
+http://117.148.187.37/PLTV/88888888/224/3221226122/index.m3u8
+#EXTINF:-1 ,CCTV7HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=028&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,CCTV-7HD
+http://117.148.187.37/PLTV/88888888/224/3221226470/index.m3u8
+#EXTINF:-1 ,CCTV-7军事农业
+http://183.207.248.8:80/PLTV/3/224/3221225546/index.m3u8
+#EXTINF:-1 ,CCTV-7军事农业
+http://121.31.30.90:8085/ysten-business/live/cctv-7/yst.m3u8
+#EXTINF:-1 ,CCTV-7高清
+http://117.169.120.140:8080/live/cctv-7/.m3u8
+#EXTINF:-1 ,CCTV-7高清
+http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+#EXTINF:-1 ,CCTV8
+http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
+#EXTINF:-1 ,CCTV-8
+http://hbry.chinashadt.com:1938/live/1002.stream_360p/playlist.m3u8
+#EXTINF:-1 ,CCTV-8
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 ,CCTV-8
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+#EXTINF:-1 ,CCTV-8 电视剧
+http://cctv.v.kcdnvip.com/live/cctv8_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-8 电视剧
+http://cctv.v.myalicdn.com/live/cctv8_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-8 电视剧
+http://cctv.v.myalicdn.com/live/cctv8_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-8 电视剧
+http://cctv.v.kcdnvip.com/live/cctv8_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-8FHD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 ,CCTV-8FHD
+http://223.110.245.139:80/PLTV/4/224/3221227304/index.m3u8
+#EXTINF:-1 ,CCTV8HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=032&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,CCTV-8HD
+http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8
+#EXTINF:-1 ,CCTV-8电视剧
+http://223.110.243.170/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 ,CCTV-8电视剧HD
+http://121.31.30.90:8085/ysten-business/live/cctv-8/yst.m3u8
+#EXTINF:-1 ,CCTV8高清
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 ,CCTV-8高清
+http://39.135.32.29:6610/000000001000/1000000001000003736/index.m3u8?i
+#EXTINF:-1 ,CCTV-8高清
+http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 ,CCTV-8高清
+http://39.135.32.29:6610/000000001000/1000000001000003736/index.m3u8?i
+#EXTINF:-1 ,CCTV9
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000143.m3u8
+#EXTINF:-1 ,CCTV9
+http://cctvcnch5c.v.wscdns.com/live/cctvjilu_2/index.m3u8
+#EXTINF:-1 ,CCTV-9
+http://121.31.30.90:8085/ysten-business/live/cctv-news/1.m3u8
+#EXTINF:-1 ,CCTV-9
+http://183.207.249.6/PLTV/3/224/3221225532/1.m3u8
+#EXTINF:-1 ,CCTV-9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 ,CCTV-9
+http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 ,CCTV-9 纪录
+http://cctv.v.myalicdn.com/live/cctvjilu_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-9 纪录
+http://cctv.v.myalicdn.com/live/cctvjilu_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-9 纪录
+http://cctv.v.myalicdn.com/live/cctvjilu_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-9 纪录
+http://cctv.v.kcdnvip.com/live/cctvjilu_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-9 纪录
+http://cctv.v.kcdnvip.com/live/cctvjilu_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-9FHD
+http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8
+#EXTINF:-1 ,CCTV9HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=033&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,CCTV-9英
+http://223.82.250.72/live/cctv-9/1.m3u8
+#EXTINF:-1 ,CCTV-9记录
+http://121.31.30.90:8085/ysten-business/live/cctv-news/yst.m3u8
+#EXTINF:-1 ,CCTV-9高清
+http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+#EXTINF:-1 ,CCTV10
+http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 ,CCTV-10
+http://hnmc.chinashadt.com:3036/live/1004.stream/playlist.m3u8
+#EXTINF:-1 ,CCTV-10
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227317/index.m3u8
+#EXTINF:-1 ,CCTV-10
+http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 ,CCTV-10 科教
+http://cctv.v.live.qingcdn.com/live/cctv10_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-10FHD
+http://223.110.245.170/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 ,CCTV-10FHD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 ,CCTV-10FHD
+http://117.148.187.37/PLTV/88888888/224/3221226199/index.m3u8
+#EXTINF:-1 ,CCTV10HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=004&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,CCTV-10科教
+http://121.31.30.90:8085/ysten-business/live/cctv-10/yst.m3u8
+#EXTINF:-1 ,CCTV-10高清
+http://39.135.32.24:6610/000000001000/1000000001000023734/index.m3u8?i
+#EXTINF:-1 ,CCTV-10高清
+http://117.169.120.140:8080/live/cctv-10/.m3u8
+#EXTINF:-1 ,CCTV-10高清
+http://39.135.32.24:6610/000000001000/1000000001000023734/index.m3u8?i
+#EXTINF:-1 ,CCTV-10高清
+http://183.207.249.71/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 ,CCTV-10高清
+http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 ,CCTV11
+http://cctvcnch5c.v.wscdns.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 ,CCTV-11
+http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8
+#EXTINF:-1 ,CCTV-11
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227384/index.m3u8
+#EXTINF:-1 ,CCTV-11
+http://223.82.250.72/live/cctv-11/1.m3u8
+#EXTINF:-1 ,CCTV-11 戏曲
+http://cctv.v.myalicdn.com/live/cctv11_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-11 戏曲
+http://cctv.v.myalicdn.com/live/cctv11_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-11戏曲
+http://121.31.30.90:8085/ysten-business/live/cctv-11/yst.m3u8
+#EXTINF:-1 ,CCTV-11标清
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 ,CCTV-11高清
+http://117.169.120.140:8080/live/cctv-11/.m3u8
+#EXTINF:-1 ,CCTV12
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000171.m3u8
+#EXTINF:-1 ,CCTV12
+http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 ,CCTV-12
+http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
+#EXTINF:-1 ,CCTV-12
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226019/index.m3u8
+#EXTINF:-1 ,CCTV-12
+http://223.82.250.72/live/cctv-12/1.m3u8
+#EXTINF:-1 ,CCTV-12
+http://111.40.205.87/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 ,CCTV-12 社会与法
+http://cctv.v.myalicdn.com/live/cctv12_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-12 社会与法
+http://cctv.v.kcdnvip.com/live/cctv12_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-12 社会与法
+http://cctv.v.myalicdn.com/live/cctv12_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-12 社会与法
+http://111.40.205.76/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 ,CCTV-12 社会与法
+http://cctv.v.kcdnvip.com/live/cctv12_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-12 社会与法
+http://cctv.v.myalicdn.com/live/cctv12_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-12FHD
+http://117.148.187.37/PLTV/88888888/224/3221226167/index.m3u8
+#EXTINF:-1 ,CCTV-12FHD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 ,CCTV-12FHD
+http://223.110.245.170/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 ,CCTV12HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=034&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,CCTV-12社会与法
+http://121.31.30.90:8085/ysten-business/live/cctv-12/yst.m3u8
+#EXTINF:-1 ,CCTV-12高清
+http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 ,CCTV-13
+http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
+#EXTINF:-1 ,CCTV-13
+http://hbhl.chinashadt.com:2036/live/10005.stream_360p/playlist.m3u8
+#EXTINF:-1 ,CCTV-13
+http://117.148.187.37/PLTV/88888888/224/3221226193/index.m3u8
+#EXTINF:-1 ,CCTV-13
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 ,CCTV-13
+http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 ,CCTV-13 新闻
+http://cctv.v.kcdnvip.com/live/cctv13_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-13 新闻
+http://cctv.v.kcdnvip.com/live/cctv13_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-13 新闻
+http://cctv.v.kcdnvip.com/live/cctv13_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-13FHD
+http://117.148.187.37/PLTV/88888888/224/3221226763/index.m3u8
+#EXTINF:-1 ,CCTV-13新闻
+http://121.31.30.90:8085/ysten-business/live/cctv-13/yst.m3u8
+#EXTINF:-1 ,CCTV-13标清
+http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+#EXTINF:-1 ,CCTV-13高清
+http://117.169.120.140:8080/live/cctv-13/.m3u8
+#EXTINF:-1 ,CCTV14
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000172.m3u8
+#EXTINF:-1 ,CCTV-14
+http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 ,CCTV-14
+http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
+#EXTINF:-1 ,CCTV-14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 ,CCTV-14 少儿
+http://cctv.v.kcdnvip.com/live/cctvchild_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-14 少儿
+http://cctv.v.myalicdn.com/live/cctvchild_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-14 少儿
+http://cctv.v.kcdnvip.com/live/cctvchild_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-14 少儿
+http://cctv.v.myalicdn.com/live/cctvchild_1audio.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV-14 少儿
+http://cctv.v.kcdnvip.com/live/cctvchild_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 ,CCTV14FHD
+http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
+#EXTINF:-1 ,CCTV-14FHD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1 ,CCTV14HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=035&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,CCTV14HD
+http://117.148.187.37/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 ,CCTV-14少儿
+http://121.31.30.90:8085/ysten-business/live/cctv-14/yst.m3u8
+#EXTINF:-1 ,CCTV-14高清
+http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1 ,CCTV15
+http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
+#EXTINF:-1 ,CCTV-15
+http://117.148.187.37/PLTV/88888888/224/3221226112/index.m3u8
+#EXTINF:-1 ,CCTV-15
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221226025/index.m3u8
+#EXTINF:-1 ,CCTV-15
+http://223.82.250.72/live/cctv-15/1.m3u8
+#EXTINF:-1 ,CCTV-15
+http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
+#EXTINF:-1 ,CCTV-15
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
+#EXTINF:-1 ,CCTV-15音乐
+http://121.31.30.90:8085/ysten-business/live/cctv-15/yst.m3u8
+#EXTINF:-1 ,CCTV17
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000169.m3u8
+#EXTINF:-1 ,CCTV-News
+http://121.31.30.90:8085/ysten-business/live/cctv-9/1.m3u8
+#EXTINF:-1 ,CCTV-Русский
+http://live.cgtn.com/cctv-r.m3u8
+#EXTINF:-1 ,CCTV-Русский
+http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 ,CCTV-女性时尚
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+#EXTINF:-1 ,CCTV-老故事
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+#EXTINF:-1 ,CCTV风云足球(电)
+http://59.46.18.134:8114/Fsv_otype=1?FvSeid=5bf181c25f226bb2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=87&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,万州三峡移民
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 ,万州三峡移民
+http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
+#EXTINF:-1 ,万州影视
+http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
+#EXTINF:-1 ,万州影视文艺
+http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 ,万州影视文艺
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 ,万州科教频道
+http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
+#EXTINF:-1 ,万州科教频道
+http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
+#EXTINF:-1 ,万州综合频道
+http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 ,万盛
+http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/chunklist.m3u8
+#EXTINF:-1 ,万盛新闻综合
+http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/playlist.m3u8
+#EXTINF:-1 ,万载综合频道
+http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
+#EXTINF:-1 ,三亚南山文化旅游区海上观音(回放)
+https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
+#EXTINF:-1 ,三亚新闻综合
+http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
+#EXTINF:-1 ,三国演义
+https://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,三明公共频道
+http://stream.smntv.cn/smtv2/sd/live.m3u8
+#EXTINF:-1 ,三明新闻综合
+http://stream.smntv.cn/smtv1/sd/live.m3u8
+#EXTINF:-1 ,上杭综合频道
+http://fjsh.chinashadt.com:1935/live/fjds.stream/playlist.m3u8
+#EXTINF:-1 ,上海东方卫视
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 ,上海东方卫视
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=16&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,上海卫视
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225856/index.m3u8
+#EXTINF:-1 ,上海卫视FHD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8
+#EXTINF:-1 ,上海卫视FHD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227396/index.m3u8
+#EXTINF:-1 ,上海卫视HD
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225904/index.m3u8
+#EXTINF:-1 ,上海纪实HD
+http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/index.m3u8
+#EXTINF:-1 ,上海这一刻：魔都眼
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
+#EXTINF:-1 ,上海这一刻陆家嘴
+http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
+#EXTINF:-1 ,上海这一刻陆家嘴
+http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201925578539&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
+#EXTINF:-1 ,上海这一刻魔都眼
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
+#EXTINF:-1 ,上海金山电视台
+http://live.mudu.tv/watch/4zbn2f.m3u8
+#EXTINF:-1 ,上虞3新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 ,上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 ,上虞经济文化
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 ,上高综合频道
+http://jxsg.chinashadt.com:1936/live/TV1.stream_aac/playlist.m3u8
+#EXTINF:-1 ,东南卫视
+http://ivi.bupt.edu.cn/hls/dntv.m3u8
+#EXTINF:-1 ,东南卫视
+http://121.31.30.90:8085/ysten-business/live/dongnanstv/1.m3u8
+#EXTINF:-1 ,东南卫视
+http://111.40.205.87/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 ,东南卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/dongnanstv/1.m3u8
+#EXTINF:-1 ,东南卫视
+http://121.31.30.90:8085/ysten-business/live/dongnanstv/yst.m3u8
+#EXTINF:-1 ,东方卫视
+http://121.31.30.90:8085/ysten-business/live/dongfangstv/yst.m3u8
+#EXTINF:-1 ,东方卫视
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/dongfang_2/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://121.31.30.90:8085/ysten-business/live/dongfangstv/1.m3u8
+#EXTINF:-1 ,东方卫视
+http://111.40.205.87/PLTV/88888888/224/3221225700/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://111.40.205.87/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 ,东方卫视HD
+http://121.31.30.90:8085/ysten-business/live/hddongfangstv/1.m3u8
+#EXTINF:-1 ,东方卫视HD
+http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8
+#EXTINF:-1 ,东方卫视HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=022&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,东方卫视HD
+http://223.82.250.72/live/hddongfangstv/1.m3u8
+#EXTINF:-1 ,东方财经
+http://w1.livecdn.yicai.com/hls/live/dftv_sd/live.m3u8
+#EXTINF:-1 ,东方财经
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226033/index.m3u8
+#EXTINF:-1 ,东方财经-浦东
+http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 ,东方购物
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+#EXTINF:-1 ,东昌导视频道
+http://sddc.chinashadt.com:1936/live/gonggong.stream/playlist.m3u8
+#EXTINF:-1 ,东至影视频道
+http://223.247.33.124:1935/live/yingshi/playlist.m3u8
+#EXTINF:-1 ,东至文化资讯
+http://223.247.33.124:1935/live/wenhua/playlist.m3u8
+#EXTINF:-1 ,东至新闻综合
+http://223.247.33.124:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 ,东营公共频道
+http://stream.hhek.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 ,东营图文频道
+http://stream.hhek.cn/twpd/sd/live.m3u8
+#EXTINF:-1 ,东营科教频道
+http://stream.hhek.cn/dyjy/sd/live.m3u8
+#EXTINF:-1 ,东营综合频道
+http://stream.hhek.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 ,东阳影视生活
+http://stream.dybtv.com/yssh/GQ/live.m3u8
+#EXTINF:-1 ,东阳新闻综合
+http://stream.dybtv.com/xwzh/GQ/live.m3u8
+#EXTINF:-1 ,个旧综合
+http://221.3.215.44:9099/gjtv/gjtv.m3u8
+#EXTINF:-1 ,中国教育1
+http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
+#EXTINF:-1 ,中国教育1
+http://121.31.30.90:8085/ysten-business/live/jiaoyutv/yst.m3u8
+#EXTINF:-1 ,中国气象
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 ,中国黄河
+http://live3.sxrtv.com/flvss?bitrate=800000&channel=ChinaHuangHe&start=0&provider=www.tvmining.com
+#EXTINF:-1 ,中央电视塔中塔东(回放)
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+#EXTINF:-1 ,中山公共
+http://dslive.grtn.cn/zszh/sd/live.m3u8
+#EXTINF:-1 ,中牟综合频道
+http://218.206.193.210:9850/playServer/acquirePlayService?type=live&resourceId=1000000000000001&protocol=hls0&drmType=none&deviceGroup=TV(STB)&op=sovp&playType=catchup&redirect=m3u8&nsukey=&kdsplayer=media
+#EXTINF:-1 ,丰都文化旅游
+http://125.62.25.201:1936/output0.m3u8
+#EXTINF:-1 ,临朐先锋频道
+http://sdlqx.chinashadt.com:2036/live/lqxf.stream/playlist.m3u8
+#EXTINF:-1 ,临朐新闻频道
+http://sdlqx.chinashadt.com:2036/live/lqxw.stream/playlist.m3u8
+#EXTINF:-1 ,临朐生活频道
+http://sdlqx.chinashadt.com:2036/live/lqsh.stream/playlist.m3u8
+#EXTINF:-1 ,临汾综合频道
+http://sxxx.chinashadt.com:2037/live/1.stream/playlist.m3u8
+#EXTINF:-1 ,临漳公共频道
+http://hblz.chinashadt.com:1538/live/di3.stream/playlist.m3u8
+#EXTINF:-1 ,临漳百姓频道
+http://hblz.chinashadt.com:1538/live/di4.stream/playlist.m3u8
+#EXTINF:-1 ,丽江古城万古楼遥望玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 ,乌克兰VOTV
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist.m3u8
+#EXTINF:-1 ,乌海综合频道
+http://1.31.80.38:180/livestream3/playlist.m3u8
+#EXTINF:-1 ,乐山公共频道
+http://m3u8.file.leshantv.net:8011/vms/videos/nmip-media/channellive/channel12/playlist.m3u8
+#EXTINF:-1 ,乐山新闻综合
+http://m3u8.file.leshantv.net:8011/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 ,乐清新闻频道
+http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_170.m3u8
+#EXTINF:-1 ,乐清生活频道
+http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_171.m3u8
+#EXTINF:-1 ,九寨沟新闻综合
+http://111.231.194.231:85/live/xwzh.m3u8
+#EXTINF:-1 ,九寨沟新闻综合
+http://111.231.194.231:85/live/xwzh_500k.m3u8
+#EXTINF:-1 ,九寨沟旅游资讯
+http://111.231.194.231:85/live/lyzx_500k.m3u8
+#EXTINF:-1 ,九寨沟旅游资讯
+http://111.231.194.231:85/live/lyzx.m3u8
+#EXTINF:-1 ,云南卫视
+http://111.40.205.76/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=110&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,云南卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/yunnanstv/1.m3u8
+#EXTINF:-1 ,云南卫视
+http://121.31.30.90:8085/ysten-business/live/yunnanstv/1.m3u8
+#EXTINF:-1 ,云南卫视
+http://121.31.30.90:8085/ysten-business/live/yunnanstv/yst.m3u8
+#EXTINF:-1 ,云南卫视
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221226083/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://ivi.bupt.edu.cn/hls/yntv.m3u8
+#EXTINF:-1 ,云南卫视(电)
+http://118.123.60.10:8114/syhjcms_hls/10000100201705020000001000000008?FvSeid=5bf2539394e75947&Fsv_filetype=0&Fsv_ctype=LIVES&Fsv_cid=6641&Fsv_TBt=614400&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=syhjcms_hls&Pcontent_id=10000100201705020000001000000008&Fsv_CMSID=syhjcms&Fsv_chan_hls_se_idx=12
+#EXTINF:-1 ,云南大理崇圣寺三塔远景
+https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1 ,云南红河哈尼梯田多依树景点(回放)
+https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
+#EXTINF:-1 ,云南红河哈尼梯田老虎嘴(回放)
+https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
+#EXTINF:-1 ,云台山百家岩
+https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8
+#EXTINF:-1 ,五家渠新闻综合
+http://livewjq.sobeycache.com/wjq/zb1.flv?auth_key=1602147490-0-0-30ceb043e26c8e35d843c440d45ae3fa
+#EXTINF:-1 ,五星体育HD
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
+#EXTINF:-1 ,五福星系列
+https://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
+#EXTINF:-1 ,京视剧场
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
+#EXTINF:-1 ,亳州农村
+http://218.22.251.12:8001/tslslive/JpWzs2u/hls/live_sd.m3u8
+#EXTINF:-1 ,亳州农村频道
+http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
+#EXTINF:-1 ,亳州新闻综合
+http://218.22.251.12:8001/tslslive/wT9aUpL/hls/live_sd.m3u8
+#EXTINF:-1 ,亳州新闻频道
+http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.M3U8
+#EXTINF:-1 ,亳州都市
+http://218.22.251.12:8001/tslslive/gdhS3fc/hls/live_sd.m3u8
+#EXTINF:-1 ,人间卫视
+http://54.64.23.79:1935/live/vod/chunklist_w2045233730.m3u8
+#EXTINF:-1 ,仁寿新闻综合
+http://118.122.224.176:8091/live/xwzh.m3u8
+#EXTINF:-1 ,仁寿生活资讯
+http://118.122.224.176:8091/live/shzx.m3u8
+#EXTINF:-1 ,仙桃新闻综合
+http://221.233.242.239:280/live/71/playlist.m3u8
+#EXTINF:-1 ,仙桃新闻综合
+http://36979.hlsplay.aodianyun.com/guangdianyun_36979/tv_channel_509.m3u8
+#EXTINF:-1 ,仙桃生活文体
+http://221.233.242.239:280/live/72/playlist.m3u8
+#EXTINF:-1 ,仙桃生活文体
+http://36979.hlsplay.aodianyun.com/guangdianyun_36979/tv_channel_510.m3u8
+#EXTINF:-1 ,仙都风景区
+https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
+#EXTINF:-1 ,信吉电视
+http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
+#EXTINF:-1 ,信吉电视FHD
+http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+#EXTINF:-1 ,假面骑士HD
+http://117.148.187.37/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1 ,僵尸道长·珍藏林阵英僵尸剧
+https://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
+#EXTINF:-1 ,儒释道网络电视台
+http://amtbsg.cloudapp.net/liveedge/_definst_/cult/chunklist_w856981860.m3u8
+#EXTINF:-1 ,元阳综合
+http://221.3.215.44:9099/yytv/yytv.m3u8
+#EXTINF:-1 ,六安公共频道
+http://live.china-latv.com/channel2/sd/live.m3u8
+#EXTINF:-1 ,六安新闻综合
+http://live.china-latv.com/channel1/sd/live.m3u8
+#EXTINF:-1 ,兵团卫视
+http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
+#EXTINF:-1 ,兵团卫视
+http://ivi.bupt.edu.cn/hls/bttv.m3u8
+#EXTINF:-1 ,兵团卫视
+http://v.btzx.com.cn:1935/live/weishi.stream/chunklist_w846804169.m3u8
+#EXTINF:-1 ,兵团建设
+http://v.btzx.com.cn:1935/live/news.stream/playlist.m3u8
+#EXTINF:-1 ,内广东卫视HD
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 ,内蒙古
+http://223.110.245.139:80/PLTV/4/224/3221225836/index.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/neimenggustv/1.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://121.31.30.90:8085/ysten-business/live/neimenggustv/1.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://117.169.120.140:8080/live/neimenggustv/.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://111.40.205.76/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://121.31.30.90:8085/ysten-business/live/neimenggustv/yst.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://ivi.bupt.edu.cn/hls/nmtv.m3u8
+#EXTINF:-1 ,内黑龙江卫视HD
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 ,冕宁电视台
+http://live.sichuanmianning.com/live/xwpd.m3u8
+#EXTINF:-1 ,凉山公共频道
+http://117.177.76.18:11112/lstv2/LSTV2.flv
+#EXTINF:-1 ,凉山新闻综合
+http://118.122.8.156:11111/lstv1/LSTV1.flv
+#EXTINF:-1 ,利川公共频道
+http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
+#EXTINF:-1 ,包头新闻综合
+http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
+#EXTINF:-1 ,包头新闻综合
+http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
+#EXTINF:-1 ,包头生活服务
+http://live.btgdt.com/channels/btgd/shfw/m3u8:500k/live
+#EXTINF:-1 ,包头经济频道
+http://live.btgdt.com/channels/btgd/jjpd/m3u8:500k/live
+#EXTINF:-1 ,北京10少儿
+http://ivi.bupt.edu.cn/hls/btv10.m3u8
+#EXTINF:-1 ,北京冬奥纪实
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 ,北京卡酷
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=108&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,北京卫视
+http://111.40.205.87/PLTV/88888888/224/3221225701/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://121.31.30.90:8085/ysten-business/live/beijingstv/yst.m3u8
+#EXTINF:-1 ,北京卫视
+http://183.207.249.7/PLTV/3/224/3221225574/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227435/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/beijingstv/1.m3u8
+#EXTINF:-1 ,北京卫视
+http://121.31.30.90:8085/ysten-business/live/beijingstv/1.m3u8
+#EXTINF:-1 ,北京卫视FHD
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
+#EXTINF:-1 ,北京卫视FHD
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8
+#EXTINF:-1 ,北京卫视HD
+http://223.110.243.173/PLTV/3/224/3221227246/index.m3u8
+#EXTINF:-1 ,北京卫视HD
+http://223.82.250.72/live/hdbeijingstv/1.m3u8
+#EXTINF:-1 ,北京卫视HD
+http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 ,北京卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdbeijingstv/1.m3u8
+#EXTINF:-1 ,北京卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdbeijingstv/yst.m3u8
+#EXTINF:-1 ,北京卫视HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=030&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,北京影视
+http://ivi.bupt.edu.cn/hls/btv4.m3u8
+#EXTINF:-1 ,北京文艺
+http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 ,北京文艺
+http://ivi.bupt.edu.cn/hls/btv2.m3u8
+#EXTINF:-1 ,北京新闻
+http://ivi.bupt.edu.cn/hls/btv9.m3u8
+#EXTINF:-1 ,北京时装周HD
+http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
+#EXTINF:-1 ,北京生活
+http://ivi.bupt.edu.cn/hls/btv7.m3u8
+#EXTINF:-1 ,北京科教
+http://ivi.bupt.edu.cn/hls/btv3.m3u8
+#EXTINF:-1 ,北京纪实
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 ,北京纪实HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=158&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,北京财经
+http://ivi.bupt.edu.cn/hls/btv5.m3u8
+#EXTINF:-1 ,北京青年
+http://ivi.bupt.edu.cn/hls/btv8.m3u8
+#EXTINF:-1 ,北碚综合频道
+http://222.178.181.121:12034/ts1
+#EXTINF:-1 ,北碚综合频道
+http://222.178.181.121:12034/beibei01.m3u8
+#EXTINF:-1 ,医馆笑传
+https://txdirect.hls.huya.com/huyalive/29359996-2689637846-11551906586653884416-2847687566-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,华亭电视台
+http://117.156.28.119/270000001111/1110000148/index.m3u8
+#EXTINF:-1 ,华数有象视频
+http://hls-ott-zhibo.wasu.tv/live/301/index.m3u8
+#EXTINF:-1 ,华数视频
+http://hls-ott-zhibo.wasu.tv/live/302/index.m3u8
+#EXTINF:-1 ,华藏卫视
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+#EXTINF:-1 ,南京十八
+http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南京少儿
+http://live.nbs.cn/channels/njtv/sepd/flv:500k/live
+#EXTINF:-1 ,南京少儿
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南京影视
+http://live.nbs.cn/channels/njtv/yspd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南京教科
+http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227194/index.m3u8
+#EXTINF:-1 ,南京教科
+http://live.nbs.cn/channels/njtv/jkpd/flv:500k/live
+#EXTINF:-1 ,南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南京玄武湖公园
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 ,南京生活
+http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南川新闻综合
+http://221.5.213.4:30000/flv1
+#EXTINF:-1 ,南川旅游经济
+http://nanchuanlive.cbg.cn:30000/2222.m3u8
+#EXTINF:-1 ,南方购物
+http://nclive.grtn.cn/nfgw/sd/live.m3u8
+#EXTINF:-1 ,南阳公共频道
+http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_295.m3u8
+#EXTINF:-1 ,南阳新闻频道
+http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
+#EXTINF:-1 ,南阳新闻频道
+http://hnnz.chinashadt.com:1935/live/1003.stream/playlist.m3u8
+#EXTINF:-1 ,南阳科教频道
+http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_296.m3u8
+#EXTINF:-1 ,博州汉语综合
+http://klmyyun.chinavas.com/hls/bozhou1.m3u8
+#EXTINF:-1 ,博州维语综合
+http://klmyyun.chinavas.com/hls/bozhou3.m3u8
+#EXTINF:-1 ,卡塔尔半岛电视台
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
+#EXTINF:-1 ,卡塔尔半岛电视台
+http://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
+#EXTINF:-1 ,卡塔尔半岛电视台
+http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 ,卡酷少儿
+http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
+#EXTINF:-1 ,卡酷少儿
+http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
+#EXTINF:-1 ,卡酷少儿
+http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 ,卡酷少儿
+http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
+#EXTINF:-1 ,卫星剧场Eisei Gekijo
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
+#EXTINF:-1 ,卫视中文
+http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8
+#EXTINF:-1 ,卫视中文台
+http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
+#EXTINF:-1 ,卫视卡式台
+http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8
+#EXTINF:-1 ,卫视卡式台
+http://www.chengbo.org/proxy/tg.m3u8
+#EXTINF:-1 ,原始生活21天
+http://aldirect.hls.huya.com/huyalive/29359996-2689646434-11551943471833022464-2847699146-10057-A-1525507126-1_1200.m3u8
+#EXTINF:-1 ,厦门二套
+http://cstvpull.live.wscdns.com/live/xiamen2.flv
+#EXTINF:-1 ,厦门卫视
+http://183.207.249.11/PLTV/2/224/3221226093/2.m3u8
+#EXTINF:-1 ,厦门卫视
+http://cstvpull.live.wscdns.com/live/xiamen.flv
+#EXTINF:-1 ,厦门卫视高清
+http://183.207.249.11/PLTV/2/224/3221226093/index.m3u8
+#EXTINF:-1 ,厦门鼓浪屿
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 ,双流综合频道
+http://streaming.sltv.net/live/1f9c43a006c947aba1afccfbe9f35b2e.m3u8?fmt=h264_550k_ts&m3u8
+#EXTINF:-1 ,句容党建频道
+http://218.3.92.100:1937/live/dangjian/playlist.m3u8
+#EXTINF:-1 ,句容新闻综合
+http://218.3.92.100:1937/live/jrxwzh/playlist.m3u8
+#EXTINF:-1 ,句容生活频道
+http://218.3.92.100:1937/live/shenghuo/playlist.m3u8
+#EXTINF:-1 ,吉州新闻综合
+http://218.204.153.158/10.m3u8
+#EXTINF:-1 ,吉林乡村
+http://stream1.jlntv.cn/xcpd/sd/live.m3u8
+#EXTINF:-1 ,吉林公共新闻
+http://stream1.jlntv.cn/ggpd/sd/live.m3u8?_upt=b95938311531576098
+#EXTINF:-1 ,吉林卫视
+http://121.31.30.90:8085/ysten-business/live/jilinstv/1.m3u8
+#EXTINF:-1 ,吉林卫视
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226057/index.m3u8
+#EXTINF:-1 ,吉林卫视
+http://111.40.205.87/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 ,吉林卫视
+http://121.31.30.90:8085/ysten-business/live/jilinstv/yst.m3u8
+#EXTINF:-1 ,吉林卫视
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8
+#EXTINF:-1 ,吉林卫视高清
+http://118.123.60.10:8114/syhjcms_hls/?FvSeid=&Fsv_filetype=0&Fsv_ctype=LIVES&Fsv_cid=6449&Fsv_TBt=3072000&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=syhjcms_hls&Pcontent_id=&Fsv_CMSID=syhjcms&Fsv_chan_hls_se_idx=10
+#EXTINF:-1 ,吉林山村
+http://stream1.jlntv.cn/xcpd/sd/live.m3u8?_upt=ed8b01841531576074
+#EXTINF:-1 ,吉林市新闻综合
+http://stream2.jlntv.cn/jilin1/sd/live.m3u8
+#EXTINF:-1 ,吉林教育
+http://stream.jletv.cn/live/fff4632e84194739805546e86a829581.m3u8?fmt=h264_500k_ts&m3u8
+#EXTINF:-1 ,吉林教育
+http://stream1.jletv.cn/jljy/sd/live.m3u8
+#EXTINF:-1 ,吉林教育
+http://stream.jletv.cn/live/fff4632e84194739805546e86a829581.m3u8?fmt=h264_500k_ts&m3u8
+#EXTINF:-1 ,吉林生活
+http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020
+#EXTINF:-1 ,吉林都市
+http://stream1.jlntv.cn/dspd/sd/live.m3u8?_upt=4f4899d21531575987
+#EXTINF:-1 ,吴桥生活
+http://wuqiao.chinashadt.com:2035/live/di6.stream/playlist.m3u8
+#EXTINF:-1 ,吴桥综合
+http://wuqiao.chinashadt.com:2035/live/di5.stream/playlist.m3u8
+#EXTINF:-1 ,吴江新闻综合
+http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
+#EXTINF:-1 ,周口图文信息
+http://tv.zkxww.com:1935/live4/mp4:ch4-500k/playlist.m3u8
+#EXTINF:-1 ,周口新闻综合2
+http://tv.zkxww.com:1935/live1/mp4:ch1-500k/playlist.m3u8
+#EXTINF:-1 ,周口科教文化2
+http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8
+#EXTINF:-1 ,周口经济生活2
+http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8
+#EXTINF:-1 ,咪咕4K
+http://39.134.52.180/PLTV/88888888/224/3221226162/index.m3u8
+#EXTINF:-1 ,咪咕体育
+http://39.134.52.180/PLTV/88888888/224/3221226073/index.m3u8
+#EXTINF:-1 ,咪咕视频
+http://39.134.52.180/PLTV/88888888/224/3221226097/index.m3u8
+#EXTINF:-1 ,嘉兴海盐新闻综合
+http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 ,嘉鱼新闻综合
+http://jiayu.live.tempsource.cjyun.org/videotmp/s10131-jyzh.m3u8
+#EXTINF:-1 ,四川4新闻综合
+http://scgctvshow.sctv.com/sdlive/sctv4/3.m3u8
+#EXTINF:-1 ,四川卫视
+http://121.31.30.90:8085/ysten-business/live/sichuanstv/yst.m3u8
+#EXTINF:-1 ,四川卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/sichuanstv/1.m3u8
+#EXTINF:-1 ,四川卫视
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000187.m3u8
+#EXTINF:-1 ,四川卫视
+http://118.123.60.17:8112/syhjcms_hls/10000100000000050000000000000080
+#EXTINF:-1 ,四川卫视
+http://223.82.250.72/live/sichuanstv/1.m3u8
+#EXTINF:-1 ,四川卫视
+http://111.40.205.87/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 ,四川卫视
+http://121.31.30.90:8085/ysten-business/live/sichuanstv/1.m3u8
+#EXTINF:-1 ,四川卫视HD
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
+#EXTINF:-1 ,四川妇女儿童
+http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
+#EXTINF:-1 ,四川广安公共频道
+http://live1.gatv.com.cn:85/live/GGPD.m3u8
+#EXTINF:-1 ,四川广安区电视台
+http://live2.gatv.com.cn:86/live/GAQ.m3u8
+#EXTINF:-1 ,四川广安新闻综合
+http://live1.gatv.com.cn:85/live/XWZH.m3u8
+#EXTINF:-1 ,四川文旅
+http://118.123.60.17:8112/syhjcms_hls/10000100000000050000000000000102
+#EXTINF:-1 ,四川眉山青神电视台
+http://live.scqstv.com:84/live/test.m3u8
+#EXTINF:-1 ,四川阿坝州松潘县黄龙景区
+https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+#EXTINF:-1 ,四川阿坝州松潘县黄龙景区五彩池
+https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1 ,四平新闻综合
+http://stream2.jlntv.cn/sptv/sd/live.m3u8
+#EXTINF:-1 ,国家记忆
+http://live.scbtv.cn/hls/qfc/index.m3u8
+#EXTINF:-1 ,城口综合频道
+http://chengkoulive2.cbg.cn:1935/chengkou01.m3u8
+#EXTINF:-1 ,增城综合
+http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.M3U8
+#EXTINF:-1 ,增城综合
+http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.m3u8
+#EXTINF:-1 ,天水公共频道
+http://61.178.129.74:5021/live_hls/3/playlist.m3u8
+#EXTINF:-1 ,天水新闻综合
+http://61.178.129.74:5021/live_hls/1/playlist.m3u8
+#EXTINF:-1 ,天津卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/hdtianjinstv/1.m3u8
+#EXTINF:-1 ,天津卫视
+http://111.40.205.87/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://ivi.bupt.edu.cn/hls/tjtv.m3u8
+#EXTINF:-1 ,天津卫视
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225808/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://121.31.30.90:8085/ysten-business/live/tianjinstv/yst.m3u8
+#EXTINF:-1 ,天津卫视
+http://121.31.30.90:8085/ysten-business/live/tianjinstv/1.m3u8
+#EXTINF:-1 ,天津卫视FHD
+http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227382/index.m3u8
+#EXTINF:-1 ,天津卫视FHD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8
+#EXTINF:-1 ,天津卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdtianjinstv/yst.m3u8
+#EXTINF:-1 ,天津卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdtianjinstv/1.m3u8
+#EXTINF:-1 ,天津卫视HD
+http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8
+#EXTINF:-1 ,天津卫视高清
+http://39.134.52.157/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226048/index.m3u8
+#EXTINF:-1 ,天津海河(回放)
+https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8
+#EXTINF:-1 ,天涯海角の南天一柱(回放)
+https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
+#EXTINF:-1 ,天涯海角の日月石(回放)
+https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
+#EXTINF:-1 ,太仓党建频道
+http://58.211.172.37:1935/live/djpdpc/playlist.m3u8
+#EXTINF:-1 ,太仓娄东民生
+http://58.211.172.37:1935/live/ldmspc/playlist.m3u8
+#EXTINF:-1 ,太仓新闻频道
+http://58.211.172.37:1935/live/tcxwpc/playlist.m3u8
+#EXTINF:-1 ,太康新农村
+http://hntk.chinashadt.com:2036/live/stream:xnc.stream/playlist.m3u8
+#EXTINF:-1 ,太康综合
+http://hntk.chinashadt.com:2036/live/stream:zonghe.stream/playlist.m3u8
+#EXTINF:-1 ,央视体育频道-CCTV5FHD1
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 ,央视体育频道-CCTV5FHD100
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8
+#EXTINF:-1 ,央视体育频道-CCTV5FHD103
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
+#EXTINF:-1 ,夷陵综合
+http://yiling.live.cjyun.org/video/s10174-TC1T/index.m3u8
+#EXTINF:-1 ,奉化新闻综合
+http://stream.fhtv.net.cn/zhpd/sd/live.m3u8
+#EXTINF:-1 ,奉化生活娱乐
+http://stream.fhtv.net.cn/ylpd/sd/live.m3u8
+#EXTINF:-1 ,如东新闻综合
+http://live.rdxmt.com/channels/rudong/news/flv:sd/live
+#EXTINF:-1 ,如东生活服务
+http://live.rdxmt.com/channels/rudong/shfw/flv:sd/live
+#EXTINF:-1 ,娄底
+http://mms.ldntv.cn:1935/live/_definst_/zonghe/chunklist_w67585331.m3u8
+#EXTINF:-1 ,娄底公共
+http://218.77.102.118:1935/live/gonggong/playlist.m3u8
+#EXTINF:-1 ,娄底公共频道
+http://119.39.242.52:1935/live/gonggong/playlist.m3u8
+#EXTINF:-1 ,娄底公共频道
+http://mms.ldntv.cn:1935/live/gonggong/playlist.m3u8
+#EXTINF:-1 ,娄底综合频道
+http://119.39.242.52:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 ,娄底综合频道
+http://218.77.102.118:1935/live/zonghe_iphone/playlist.m3u8
+#EXTINF:-1 ,娄底综合频道
+http://218.77.102.118:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 ,孝廉电视台
+http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
+#EXTINF:-1 ,孝感公共频道
+http://xiaogan.live.cjyun.org/video/s10139-shpd/index.m3u8
+#EXTINF:-1 ,孝感新闻综合
+http://xiaogan.live.cjyun.org/video/s10139-xg/index.m3u8
+#EXTINF:-1 ,孝昌新闻党建
+http://xiaochang.live.cjyun.org/video/s10128-xcxw/index.m3u8
+#EXTINF:-1 ,孝昌生活频道
+http://xiaochang.live.cjyun.org/video/s10128-xcsh/index.m3u8
+#EXTINF:-1 ,宁化电视一套
+http://fjnh.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
+#EXTINF:-1 ,宁南新闻综合
+http://118.122.8.156:11116/xs/NINGNAN.flv
+#EXTINF:-1 ,宁夏卫视
+http://121.31.30.90:8085/ysten-business/live/ningxiastv/yst.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://39.134.52.181/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226034/index.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://ivi.bupt.edu.cn/hls/nxtv.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://183.207.248.11/PLTV/4/224/3221225842/index.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://121.31.30.90:8085/ysten-business/live/ningxiastv/1.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://111.40.205.76/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=120&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,宁夏沙坡头大漠孤烟
+https://gccncc.v.wscdns.com/gc/nxsptdmgy_1/index.m3u8
+#EXTINF:-1 ,宁夏沙坡头长河落日
+https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
+#EXTINF:-1 ,宁夏沙坡头黄河漂流
+https://gcalic.v.myalicdn.com/gc/nxspthhpl_1/index.m3u8
+#EXTINF:-1 ,宁波少儿频道
+http://live.cloud.nbtv.cn/live/f9af570c981c4c618f919ea91b93966f?fmt=h264_800k_flv
+#EXTINF:-1 ,宁波影视频道
+http://live.cloud.nbtv.cn/live/e8370b0010ca4d15af9d81c7ce10f6da?fmt=h264_800k_flv
+#EXTINF:-1 ,宁波教育科技
+http://live.cloud.nbtv.cn/live/85c706b2820d454495352f9f3e77f86a?fmt=h264_800k_flv
+#EXTINF:-1 ,宁波文化娱乐
+http://live.cloud.nbtv.cn/live/5864a1066e4d4754a0572768c9080e47?fmt=h264_800k_flv
+#EXTINF:-1 ,宁波文化娱乐
+http://live1.cloud.nbtv.cn/live/5864a1066e4d4754a0572768c9080e47?fmt=h264_500k_flv&trs=hls_ts
+#EXTINF:-1 ,宁波新闻综合
+http://live.cloud.nbtv.cn/live/44dcc3310dcf4278827317c77e87bac5?fmt=h264_800k_flv
+#EXTINF:-1 ,宁波新闻综合
+http://live1.cloud.nbtv.cn/live/44dcc3310dcf4278827317c77e87bac5?fmt=h264_500k_flv&trs=hls_ts
+#EXTINF:-1 ,宁波社会生活
+http://live.cloud.nbtv.cn/live/98ef9dc4eb1a4259b7764ffc4a3ab241?fmt=h264_800k_flv
+#EXTINF:-1 ,安多卫视
+http://118.122.239.157:1235/hls/hd-live.m3u8
+#EXTINF:-1 ,安州新闻频道
+http://60.255.137.43:1936/aztvch1/playlist.m3u8
+#EXTINF:-1 ,安州电视剧频道
+http://60.255.137.43:1936/aztvch2/playlist.m3u8
+#EXTINF:-1 ,安州经济综合
+http://60.255.137.43:1936/aztvch3/playlist.m3u8
+#EXTINF:-1 ,安徽卫视
+http://121.31.30.90:8085/ysten-business/live/anhuistv/1.m3u8
+#EXTINF:-1 ,安徽卫视
+http://183.207.249.15/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 ,安徽卫视
+http://183.207.249.9/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 ,安徽卫视
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8
+#EXTINF:-1 ,安徽卫视
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 ,安徽卫视
+http://121.31.30.90:8085/ysten-business/live/anhuistv/yst.m3u8
+#EXTINF:-1 ,安徽卫视FHD
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 ,安徽卫视HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=002&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,安徽卫视高清
+http://219.153.252.50/PLTV/88888888/224/3221225534/chunklist.m3u8
+#EXTINF:-1 ,安徽卫视高清
+http://125.210.152.10:8060/live/AHWSHD_H265.m3u8
+#EXTINF:-1 ,安徽省池州市九华山风景区花台
+https://gccncc.v.wscdns.com/gc/jhs01_1/index.m3u8
+#EXTINF:-1 ,安徽芜湖县影视频道
+http://220.178.172.47:8090/live/ch1.m3u8
+#EXTINF:-1 ,安徽音乐广播
+http://stream.ahrtv.cn/xnyy/sd/live.m3u8
+#EXTINF:-1 ,安徽黟县宏村南湖
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
+#EXTINF:-1 ,安徽黟县宏村月沼(回放)
+https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8
+#EXTINF:-1 ,安徽黟县宏村芦村远眺
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 ,安徽黟县宏村西递半山亭
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
+#EXTINF:-1 ,安徽黟县宏村西递牌坊(回放)
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 ,完美游戏
+http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
+#EXTINF:-1 ,宜兴新闻频道
+http://live-dft-hls-yf.jstv.com/live/yixing_xw/online.m3u8
+#EXTINF:-1 ,宜兴电视紫砂频道
+http://live-dft-hls-yf.jstv.com/live/yixing_zs/online.m3u8
+#EXTINF:-1 ,宜昌综合
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000274.m3u8
+#EXTINF:-1 ,宜章新闻综合
+http://hnyz.chinashadt.com:2036/live/stream:tv1.stream/playlist.m3u8
+#EXTINF:-1 ,宜章社会法制
+http://hnyz.chinashadt.com:2036/live/stream:tv2.stream/playlist.m3u8
+#EXTINF:-1 ,宝坻一套
+http://stream.baoxinwen.com/d6387fc7a8836e78/6379968379905639427_1522141493.m3u8?auth_key=1837699200-0-0-290f5ab100e501f875249d6e25275f70
+#EXTINF:-1 ,宝坻电视台
+http://stream.baoxinwen.com/d6387fc7a8836e78/6379968379905639427_1522141493.m3u8?auth_key=1837699200-0-0-290f5ab100e501f875249d6e25275f70
+#EXTINF:-1 ,宝应新闻综合
+http://jsby.chinashadt.com:2035/live/by1.stream/playlist.m3u8
+#EXTINF:-1 ,宝应生活资讯
+http://jsby.chinashadt.com:2035/live/by2.stream/playlist.m3u8
+#EXTINF:-1 ,宝莲灯
+http://aldirect.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,宣汉城市公众
+http://60.255.77.232/1000/1000.m3u8
+#EXTINF:-1 ,宣汉新闻综合
+http://60.255.77.232/1001/1001.m3u8
+#EXTINF:-1 ,家有儿女
+https://aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,宿州公共频道
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+#EXTINF:-1 ,宿州新闻综合
+http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+#EXTINF:-1 ,宿州科教频道
+http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+#EXTINF:-1 ,宿迁公共
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221226939/index.m3u8
+#EXTINF:-1 ,屏边综合
+http://221.3.215.44:9099/pbtv/pbtv.m3u8
+#EXTINF:-1 ,山东卫视
+http://111.40.205.87/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://sdlqx.chinashadt.com:2036/live/sdws.stream/playlist.m3u8
+#EXTINF:-1 ,山东卫视
+http://121.31.30.90:8085/ysten-business/live/shandongstv/1.m3u8
+#EXTINF:-1 ,山东卫视
+http://121.31.30.90:8085/ysten-business/live/shandongstv/yst.m3u8
+#EXTINF:-1 ,山东卫视
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225804/index.m3u8
+#EXTINF:-1 ,山东卫视HD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226003/index.m3u8
+#EXTINF:-1 ,山东卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdshandongstv/yst.m3u8
+#EXTINF:-1 ,山东卫视HD
+http://223.110.243.171/PLTV/3/224/3221227258/index.m3u8
+#EXTINF:-1 ,山东卫视HD
+http://ivi.bupt.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 ,山东卫视HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=039&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,山东卫视高清
+http://39.135.32.25:6610/000000001000/1000000001000012807/index.m3u8?i
+#EXTINF:-1 ,山东教育
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/shandongjy/1.m3u8
+#EXTINF:-1 ,山东教育
+http://121.31.30.90:8085/ysten-business/live/shandongjy/1.m3u8
+#EXTINF:-1 ,山东教育
+http://121.31.30.90:8085/ysten-business/live/shandongjy/yst.m3u8
+#EXTINF:-1 ,山东教育
+http://223.82.250.72/live/shandongjy/1.m3u8
+#EXTINF:-1 ,山东教育
+http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
+#EXTINF:-1 ,山东教育
+http://111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 ,山西卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=144&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,山西卫视
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=144&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,山西卫视
+http://121.31.30.90:8085/ysten-business/live/shanxistv/1.m3u8
+#EXTINF:-1 ,山西卫视
+http://223.82.250.72/live/shanxistv/1.m3u8
+#EXTINF:-1 ,山西卫视
+http://125.210.152.10:8060/live/SXWS.m3u8
+#EXTINF:-1 ,山西卫视
+http://121.31.30.90:8085/ysten-business/live/shanxistv/yst.m3u8
+#EXTINF:-1 ,山西科教
+http://sxxx.chinashadt.com:2037/live/4.stream/playlist.m3u8
+#EXTINF:-1 ,山西黄河
+http://live3.sxrtv.com/flvss?bitrate=512000&channel=HuangHeNews&start=0&provider=www.tvmining.com
+#EXTINF:-1 ,岳云鹏
+https://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8
+#EXTINF:-1 ,峨眉山普贤菩萨铜像(回放)
+https://gccncc.v.wscdns.com/gc/emspxps_1/index.m3u8
+#EXTINF:-1 ,峨眉山远眺万佛顶(回放)
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 ,峨边电视台
+http://218.6.224.15:8011/vms/videos/channellive/channel15/playlist.m3u8
+#EXTINF:-1 ,嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 ,嵩山少林寺广场(回放)
+https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8
+#EXTINF:-1 ,巴中公共
+http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
+#EXTINF:-1 ,巴中综合频道
+http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
+#EXTINF:-1 ,希望电视台
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8
+#EXTINF:-1 ,平乡电视台
+http://hbpx.chinashadt.com:2036/live/px1.stream/chunklist.m3u8
+#EXTINF:-1 ,平乡综合频道
+http://hbpx.chinashadt.com:2036/live/px1.stream/playlist.m3u8
+#EXTINF:-1 ,平山湖大峡谷九龙汇海(回放)
+https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8
+#EXTINF:-1 ,平山湖大峡谷峡谷石林(回放)
+https://gccncc.v.wscdns.com/gc/pshdxg02_1/index.m3u8
+#EXTINF:-1 ,幸福彩
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227447/index.m3u8
+#EXTINF:-1 ,广东05少儿
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=231&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,广东08体育
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,广东11新闻
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=235&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,广东13珠江电影
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,广东14高尔夫
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=24&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,广东云浮综合
+http://dslive.grtn.cn/yfzh/sd/live.m3u8
+#EXTINF:-1 ,广东体育
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=020&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,广东体育频道
+http://nclive.grtn.cn/typd/sd/live.m3u8
+#EXTINF:-1 ,广东南方2
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=009&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,广东卫视
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=18&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,广东卫视
+http://121.31.30.90:8085/ysten-business/live/guangdongstv/1.m3u8
+#EXTINF:-1 ,广东卫视
+http://121.31.30.90:8085/ysten-business/live/guangdongstv/yst.m3u8
+#EXTINF:-1 ,广东卫视
+http://183.207.249.9/PLTV/3/224/3221225592/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://111.40.205.87/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://111.40.205.87/PLTV/88888888/224/3221225699/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://111.40.205.87/PLTV/88888888/224/3221225736/index.m3u8
+#EXTINF:-1 ,广东卫视FHD
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8
+#EXTINF:-1 ,广东卫视FHD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8
+#EXTINF:-1 ,广东卫视HD
+http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8
+#EXTINF:-1 ,广东卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdguangdongstv/1.m3u8
+#EXTINF:-1 ,广东卫视HD
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225906/index.m3u8
+#EXTINF:-1 ,广东卫视高清
+http://39.134.52.173/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225985/index.m3u8
+#EXTINF:-1 ,广东嘉佳卡通
+http://183.207.249.9/PLTV/2/224/3221226099/index.m3u8
+#EXTINF:-1 ,广东国际
+http://nclive.grtn.cn/gjpd/sd/live.m3u8
+#EXTINF:-1 ,广东少儿
+http://nclive.grtn.cn/tvs5/sd/live.m3u8
+#EXTINF:-1 ,广东影视
+http://nclive.grtn.cn/tvs4/sd/live.m3u8
+#EXTINF:-1 ,广东房产
+http://nclive.grtn.cn/fcpd/sd/live.m3u8
+#EXTINF:-1 ,广东新闻
+http://nclive.grtn.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 ,广东湛江综合频道
+http://dslive.grtn.cn/zjzh/sd/live.m3u8
+#EXTINF:-1 ,广东现代教育
+http://nclive.grtn.cn/jypd/sd/live.m3u8
+#EXTINF:-1 ,广东珠江
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=008&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,广东省番禹电视台
+http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
+#EXTINF:-1 ,广东省番禹电视台
+http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
+#EXTINF:-1 ,广东科教
+http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+#EXTINF:-1 ,广东经济科教
+http://nclive.grtn.cn/tvs1/sd/live.m3u8
+#EXTINF:-1 ,广东综艺
+http://nclive.grtn.cn/4K/sd/live.m3u8
+#EXTINF:-1 ,广东综艺4K
+http://nclive.grtn.cn:80/4K/sd/live.m3u8
+#EXTINF:-1 ,广东肇庆综合频道
+http://dslive.grtn.cn/zqzh/playlist.m3u8
+#EXTINF:-1 ,广东高尔夫频道
+http://nclive.grtn.cn/grfpd/sd/live.m3u8
+#EXTINF:-1 ,广元公共
+http://3g.dzsm.com/streamer/gy04.m3u8
+#EXTINF:-1 ,广元科教
+http://3g.dzsm.com/streamer/gy01.m3u8
+#EXTINF:-1 ,广安公共频道
+http://125.66.20.112:8081/flv500
+#EXTINF:-1 ,广安新闻综合
+http://125.66.20.112:8081/flv400
+#EXTINF:-1 ,广州少儿
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=227&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,广州影视
+http://aplay.gztv.com/sec/yingshi.m3u8
+#EXTINF:-1 ,广州影视HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=046&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,广州新闻
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=000&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,广州新闻
+http://aplay.gztv.com/sec/xinwen.m3u8
+#EXTINF:-1 ,广州现代体育
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=051&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,广州生活
+http://aplay.gztv.com/sec/shenghuo.m3u8
+#EXTINF:-1 ,广州竞赛频道
+http://aplay.gztv.com/sec/jingsai.m3u8
+#EXTINF:-1 ,广州综合
+http://aplay.gztv.com/sec/zhonghe.m3u8
+#EXTINF:-1 ,广州综合HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=044&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,广水新闻频道
+http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
+#EXTINF:-1 ,广西卫视
+http://223.82.250.72/live/guangxistv/1.m3u8
+#EXTINF:-1 ,广西卫视
+http://ivi.bupt.edu.cn/hls/gxtv.m3u8
+#EXTINF:-1 ,广西卫视
+http://121.31.30.90:8085/ysten-business/live/guangxistv/1.m3u8
+#EXTINF:-1 ,广西卫视
+http://39.134.52.165/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226002/index.m3u8
+#EXTINF:-1 ,广西卫视
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226055/index.m3u8
+#EXTINF:-1 ,广西卫视
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=138&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,广西卫视
+http://111.40.205.87/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 ,广西卫视
+http://121.31.30.90:8085/ysten-business/live/guangxistv/yst.m3u8
+#EXTINF:-1 ,广西旅游广播
+http://media.bbrtv.com:1935/live/_definst_/lypl/chunklist_w1542235389.m3u8
+#EXTINF:-1 ,应城新闻综合
+http://yingcheng.live.cjyun.org/video/s10135-YCZH/index.m3u8
+#EXTINF:-1 ,应城生活频道
+http://yingcheng.live.cjyun.org/video/s10135-YCDJ/index.m3u8
+#EXTINF:-1 ,康熙微服私访记
+http://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_4000.m3u8
+#EXTINF:-1 ,康熙王朝
+http://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,延安公共频道
+http://stream2.liveyun.hoge.cn/YATV2/sd/live.m3u8
+#EXTINF:-1 ,延安新闻综合
+http://stream2.liveyun.hoge.cn/YATV1/sd/live.m3u8
+#EXTINF:-1 ,延边卫视
+http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
+#EXTINF:-1 ,延边卫视
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
+#EXTINF:-1 ,延边卫视2
+http://live.ybtvyun.com/video/s10016-cys-sd/index.m3u8
+#EXTINF:-1 ,延边新闻综合
+http://live.ybtvyun.com/video/s10006-ybtv1-sd/index.m3u8
+#EXTINF:-1 ,延边新闻综合
+http://stream2.jlntv.cn/jlyb/sd/live.m3u8
+#EXTINF:-1 ,延边汉语综合
+http://live.ybtvyun.com/video/s10006-ybtv2-sd/index.m3u8
+#EXTINF:-1 ,延边汉语综合
+http://live.ybtvyun.com/video/s10016-ybtv2-sd/index.m3u8
+#EXTINF:-1 ,开州生活频道
+http://kaixianlive.cbg.cn:10345/5.m3u8
+#EXTINF:-1 ,开州生活频道
+http://livekaiz.sobeycache.com/kaiz/zb2.m3u8?auth_key=1594446863-0-0-40c52fb1332d7237113585be622f0ffe
+#EXTINF:-1 ,开州综合频道
+http://livekaiz.sobeycache.com/kaiz/zb1.m3u8?auth_key=1594446805-0-0-24aaa28d1eac7690bf8572966989d227
+#EXTINF:-1 ,开州综合频道
+http://kaixianlive.cbg.cn:10345/1.m3u8
+#EXTINF:-1 ,弈坛春秋
+http://223.110.245.139:80/PLTV/4/224/3221227031/index.m3u8
+#EXTINF:-1 ,张家口一套
+http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
+#EXTINF:-1 ,张家口手机台
+http://nlive.zjkgdcs.com:8091/live/zjksjt.m3u8
+#EXTINF:-1 ,张家港新闻综合
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+#EXTINF:-1 ,张家港社会生活
+http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
+#EXTINF:-1 ,张家界天门山云梦仙顶
+https://gccncc.v.wscdns.com/gc/tms04_1/index.m3u8
+#EXTINF:-1 ,张家界天门山天空步道
+https://gccncc.v.wscdns.com/gc/tms02_1/index.m3u8
+#EXTINF:-1 ,张家界天门山天门洞
+https://gccncc.v.wscdns.com/gc/tmstmd01_1/index.m3u8
+#EXTINF:-1 ,张家界天门山西线玻璃栈道
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+#EXTINF:-1 ,张家界武陵源景区将军列队
+https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
+#EXTINF:-1 ,张家界武陵源景区水绕四门
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 ,张家界武陵源景区阿凡达悬浮山
+https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
+#EXTINF:-1 ,彩民在线
+http://live1.sxrtv.com/flvss?bitrate=512000&channel=CaiMinZaiXian&start=0&provider=www.tvmining.com
+#EXTINF:-1 ,彭水文化旅游
+http://pengshuilive.cbg.cn/pengshui02.m3u8
+#EXTINF:-1 ,彭水新闻综合
+http://125.62.25.129/pengshui01.m3u8
+#EXTINF:-1 ,彭水新闻综合
+http://pengshuilive.cbg.cn/pengshui01.m3u8
+#EXTINF:-1 ,徐峥
+https://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,徐州3HD
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 ,徐州-4高清
+http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 ,徐州公共频道
+http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 ,徐州新闻综合
+http://183.207.248.11/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 ,德兴新闻综合
+http://218.64.168.174:5011/vod/hls/c01/live.m3u8
+#EXTINF:-1 ,德州公共频道
+http://video.dztv.tv:1935/live/dzgg_bq/playlist.m3u8
+#EXTINF:-1 ,德州公共频道
+http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
+#EXTINF:-1 ,德州公共频道
+http://video.dztv.tv:1935/live/dzgg_sj/playlist.m3u8
+#EXTINF:-1 ,德州图文频道
+http://video.dztv.tv:1935/live/dztw_gq/playlist.m3u8
+#EXTINF:-1 ,德州图文频道
+http://video.dztv.tv:1935/live/dztw_sj/playlist.m3u8
+#EXTINF:-1 ,德州图文频道
+http://video.dztv.tv:1935/live/dztw_bq/playlist.m3u8
+#EXTINF:-1 ,德州图文频道
+http://video.dztv.tv:1935/live/dztw_gq/playlist.m3u
+#EXTINF:-1 ,德州新闻频道
+http://video.dztv.tv:1935/live/xwzh_bq/playlist.m3u8
+#EXTINF:-1 ,德州新闻频道
+http://video.dztv.tv:1935/live/xwzh_sj/playlist.m3u8
+#EXTINF:-1 ,德州新闻频道
+http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
+#EXTINF:-1 ,德州都市
+http://video.dztv.tv:1935/live/dspd_gq/playlist.m3u8
+#EXTINF:-1 ,忠县
+http://qxlmlive.cbg.cn:1935/app_2/ls_35.stream/chunklist.m3u8
+#EXTINF:-1 ,忠县文旅频道
+http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_36.stream/playlist.m3u8
+#EXTINF:-1 ,忠县综合频道
+http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_35.stream/playlist.m3u8
+#EXTINF:-1 ,怀柔电视台
+http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
+#EXTINF:-1 ,怀柔高清
+http://live.huairtv.com:1935/dvrLive/_definst_/hrtvmb/playlist.m3u8
+#EXTINF:-1 ,怪物科幻
+http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
+#EXTINF:-1 ,恩施公共
+http://enshi.live.cjyun.org/video/s10070-esgg.m3u8
+#EXTINF:-1 ,恩施综合
+http://enshi.live.cjyun.org/video/s10070-eszh.m3u8
+#EXTINF:-1 ,息县综合频道
+http://henanxx.chinashadt.com:2036/live/xxyt.stream/playlist.m3u8
+#EXTINF:-1 ,惠州新闻综合
+http://dslive.grtn.cn/hzzh/sd/live.m3u8
+#EXTINF:-1 ,成安综合
+http://hbca.chinashadt.com:1936/live/stream:cazh.stream_720p/playlist.m3u8
+#EXTINF:-1 ,成安综艺
+http://hbca.chinashadt.com:1936/live/stream:cakl.stream_720p/playlist.m3u8
+#EXTINF:-1 ,成都新闻综合
+http://live.mudu.tv/watch/gv5h85.flv
+#EXTINF:-1 ,抚州公共频道
+http://111.75.179.195:30767/video/live_vide2.m3u8
+#EXTINF:-1 ,抚州综合频道
+http://111.75.179.195:30767/video/live_vide.m3u8
+#EXTINF:-1 ,探索集锦(电)
+http://59.46.18.134:8114/Fsv_otype=1?FvSeid=5bf181c25f226bb2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=31&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,攀枝花公共
+http://zb.pzhgd.com:9091/live/ggpd_800k.m3u8
+#EXTINF:-1 ,攀枝花新闻
+http://zb.pzhgd.com:9091/live/xwzh.m3u8
+#EXTINF:-1 ,新三国
+https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,新传媒8频道
+https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+#EXTINF:-1 ,新唐人中国台
+https://live2.ntdimg.com/cnlive/playlist.m3u8
+#EXTINF:-1 ,新唐人加东臺
+https://live.ntdimg.com/mllive860/playlist.m3u8
+#EXTINF:-1 ,新唐人加西臺
+https://live.ntdimg.com/cwlive220/playlist.m3u8
+#EXTINF:-1 ,新唐人旧金山臺
+https://live.ntdimg.com/sflive990/playlist.m3u8
+#EXTINF:-1 ,新唐人美东臺
+https://live.ntdimg.com/live400/playlist.m3u8
+#EXTINF:-1 ,新唐人美西台
+https://live.ntdimg.com/uwlive520/playlist.m3u8
+#EXTINF:-1 ,新唐人美西臺
+https://live.ntdimg.com/uwlive990/playlist.m3u8
+#EXTINF:-1 ,新唐人-美西频道
+http://live.ntdimg.com/uwlive520/playlist.m3u8?
+#EXTINF:-1 ,新昌休闲影视
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 ,新昌新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 ,新水浒传
+http://aldirect.hls.huya.com/huyalive/30765679-2523417567-10837995924416888832-2789253832-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,新泰乡村党建
+http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8
+#EXTINF:-1 ,新泰影视频道
+http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
+#EXTINF:-1 ,新泰生活频道
+http://live.xtgdw.cn:1935/live/xtsh/playlist.m3u8
+#EXTINF:-1 ,新泰综合频道
+http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
+#EXTINF:-1 ,新疆-2
+http://livehyw2.sobeycache.com/xjtvs/zb02.m3u8
+#EXTINF:-1 ,新疆-3
+http://livehyw2.sobeycache.com/xjtvs/zb03.m3u8
+#EXTINF:-1 ,新疆-4
+http://livehyw2.sobeycache.com/xjtvs/zb04.m3u8
+#EXTINF:-1 ,新疆-5
+http://livehyw2.sobeycache.com/xjtvs/zb05.m3u8
+#EXTINF:-1 ,新疆-7
+http://livehyw2.sobeycache.com/xjtvs/zb07.m3u8
+#EXTINF:-1 ,新疆-8
+http://livehyw2.sobeycache.com/xjtvs/zb08.m3u8
+#EXTINF:-1 ,新疆-9
+http://livehyw2.sobeycache.com/xjtvs/zb09.m3u8
+#EXTINF:-1 ,新疆-10
+http://livehyw2.sobeycache.com/xjtvs/zb10.m3u8
+#EXTINF:-1 ,新疆-11
+http://livehyw2.sobeycache.com/xjtvs/zb11.m3u8
+#EXTINF:-1 ,新疆-12
+http://livehyw2.sobeycache.com/xjtvs/zb12.m3u8
+#EXTINF:-1 ,新疆卫视
+http://121.31.30.90:8085/ysten-business/live/xinjiangstv/yst.m3u8
+#EXTINF:-1 ,新疆卫视
+http://223.82.250.72/live/xinjiangstv/1.m3u8
+#EXTINF:-1 ,新疆卫视
+http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1 ,新疆卫视
+http://livehyw2.sobeycache.com/xjtvs/zb01.m3u8
+#EXTINF:-1 ,新疆卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226026/index.m3u8
+#EXTINF:-1 ,新疆卫视
+http://111.40.205.87/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 ,新疆卫视
+http://121.31.30.90:8085/ysten-business/live/xinjiangstv/1.m3u8
+#EXTINF:-1 ,新疆卫视
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=122&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,新疆哈萨克语广播
+http://aod.xjbs.com.cn:1935/live/hay/32K/tzwj_video.m3u8
+#EXTINF:-1 ,新疆柯尔克孜语广播
+http://aod.xjbs.com.cn:1935/live/ky/32K/tzwj_video.m3u8
+#EXTINF:-1 ,新疆维吾尔语交通文艺广播
+http://aod.xjbs.com.cn:1935/live/wywy/32K/tzwj_video.m3u8
+#EXTINF:-1 ,新疆维吾尔语综合广播
+http://aod.xjbs.com.cn:1935/live/wy/32K/tzwj_video.m3u8
+#EXTINF:-1 ,新疆维语综合
+http://livehyw.sobeycache.com/xjtvs/zb2.m3u8?auth_key=1807150105-0-0-c3a098295a22448c89a29cf5df542211
+#EXTINF:-1 ,新疆蒙古语广播
+http://aod.xjbs.com.cn:1935/live/my/32K/tzwj_video.m3u8
+#EXTINF:-1 ,方城一套
+http://219.154.156.75:3080/live/fc720/index.m3u8
+#EXTINF:-1 ,昭化综合频道
+http://60.255.230.66:3100/hls/vxsqwmob/index.m3u8
+#EXTINF:-1 ,昭化综合频道
+http://60.255.230.66:3100/hls/qxlrwcbh/index.m3u8
+#EXTINF:-1 ,晋中公共频道
+http://jzlive.jztvnews.com:8092/live/jzgg.m3u8
+#EXTINF:-1 ,晋中新闻频道
+http://jzlive.jztvnews.com:8092/live/jzzh.m3u8
+#EXTINF:-1 ,晋城公共
+http://live1.jcbctv.com:1935/live/GGPD/1000K/tzwj_video.m3u8
+#EXTINF:-1 ,晋城新闻
+http://live1.jcbctv.com:1935/live/XWZH/1000K/tzwj_video.m3u8
+#EXTINF:-1 ,晋州综合
+http://zhjz.chinashadt.com:2036/live/1.stream/chunklist.m3u8
+#EXTINF:-1 ,晋江侨乡
+http://stream.jinjiang.tv/1/sd/live.m3u8
+#EXTINF:-1 ,普陀山
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 ,杭州1综合
+http://117.148.187.37/PLTV/88888888/224/3221226170/index.m3u8
+#EXTINF:-1 ,杭州4
+http://117.148.187.37/PLTV/88888888/224/3221226362/index.m3u8
+#EXTINF:-1 ,杭州5少儿
+http://117.148.187.37/PLTV/88888888/224/3221226354/index.m3u8
+#EXTINF:-1 ,杭州6
+http://117.148.187.37/PLTV/88888888/224/3221226352/index.m3u8
+#EXTINF:-1 ,杭州综合
+http://112.17.40.140/PLTV/88888888/224/3221226170/index.m3u8
+#EXTINF:-1 ,松原新闻综合
+http://stream2.jlntv.cn/sytv/sd/live.m3u8
+#EXTINF:-1 ,松潘新闻综合
+http://111.231.197.215:85/live/spxwzh_600k.m3u8
+#EXTINF:-1 ,枣庄公共频道
+http://stream.zzgd.tv/3/sd/live.m3u8
+#EXTINF:-1 ,枣庄教育频道
+http://stream.zzgd.tv/2/sd/live.m3u8
+#EXTINF:-1 ,枣庄新闻综合
+http://stream.zzgd.tv/1/sd/live.m3u8
+#EXTINF:-1 ,枣强综合
+http://hbzq.chinashadt.com:1937/live/1007.stream_360p/playlist.m3u8
+#EXTINF:-1 ,枣强综合
+http://hbzq.chinashadt.com:1936/live/zaoqiang5.stream_360p/palylist.m3u8
+#EXTINF:-1 ,桃江经济频道
+http://hntj.chinashadt.com:2036/live/tv12.stream_360p/playlist.m3u8
+#EXTINF:-1 ,桃江经济频道
+http://hntj.chinashadt.com:2036/live/tv12.stream/playlist.m3u8
+#EXTINF:-1 ,桃江综合频道
+http://hntj.chinashadt.com:2036/live/tv11.stream_360p/playlist.m3u8
+#EXTINF:-1 ,桃江综合频道
+http://hntj.chinashadt.com:2036/live/tv11.stream/playlist.m3u8
+#EXTINF:-1 ,梁平综合
+http://qxlmlive.cbg.cn:1935/app_2/ls_44.stream/chunklist.m3u8
+#EXTINF:-1 ,梁平综合频道
+http://qxlmlive.cbg.cn:1935/app_2/ls_44.stream/playlist.m3u8
+#EXTINF:-1 ,梅州综合
+http://dslive.grtn.cn/mzzh/sd/live.m3u8
+#EXTINF:-1 ,梨园频道
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000098.m3u8
+#EXTINF:-1 ,梨园频道
+http://hnnz.chinashadt.com:1935/live/1004.stream/playlist.m3u8
+#EXTINF:-1 ,梨园频道(电)
+http://59.46.18.134:8114/Fsv_otype=1?FvSeid=5bf181c25f226bb2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=80&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,榆树综合频道
+http://stream.zhystv.com/yset/sd/live.m3u8
+#EXTINF:-1 ,榆树综艺频道
+http://stream.zhystv.com/ysyt/sd/live.m3u8
+#EXTINF:-1 ,横山综合频道
+http://stream.hsqtv.cn/2/sd/live.m3u8
+#EXTINF:-1 ,武汉交广
+http://pili-live-hls.qnlive.appwuhan.com/jianwei/896.m3u8?auth_key=1550149076-1381559855-0-45ab235bdc6abcb4ab75c652ac521df5
+#EXTINF:-1 ,武汉综合
+http://stream.appwuhan.com/1tzb/sd/live.m3u8
+#EXTINF:-1 ,武穴综合
+http://wuxue.live.cjyun.org/video/s10107-wxtv1/index.m3u8
+#EXTINF:-1 ,永新电视一套
+http://jxyx.chinashadt.com:2036/live/1002.stream/playlist.m3u8
+#EXTINF:-1 ,永新电视三套
+http://jxyx.chinashadt.com:2036/live/1004.stream/playlist.m3u8
+#EXTINF:-1 ,汕尾公共
+http://dslive.grtn.cn/swzh/sd/live.m3u8
+#EXTINF:-1 ,江油文教
+http://vod.scjygd.com:1935/live/smil:whjy_copy.smil/playlist.m3u8
+#EXTINF:-1 ,江油新闻
+http://vod.scjygd.com:1935/live/smil:xwzh_copy.smil/playlist.m3u8
+#EXTINF:-1 ,江津文化旅游
+http://222.179.155.21:1935/ch2.m3u8
+#EXTINF:-1 ,江津文化旅游
+http://jiangjinlive.cbg.cn:1935/ch2.m3u8
+#EXTINF:-1 ,江津新闻综合
+http://jiangjinlive.cbg.cn:1935/ch1.m3u8
+#EXTINF:-1 ,江津新闻综合
+http://222.179.155.21:1935/ch1.m3u8
+#EXTINF:-1 ,江津经济生活
+http://222.179.155.21:1935/ch0.m3u8
+#EXTINF:-1 ,江津经济生活
+http://jiangjinlive.cbg.cn:1935/ch0.m3u8
+#EXTINF:-1 ,江苏南京牛首山
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://183.207.248.11/PLTV/4/224/3221225782/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,江苏卫视
+http://111.40.205.87/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://121.31.30.90:8085/ysten-business/live/jiangsustv/1.m3u8
+#EXTINF:-1 ,江苏卫视
+http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 ,江苏卫视FHD
+http://117.148.187.37/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 ,江苏卫视HD
+http://121.31.30.90:8085/ysten-business/live/jiangsustv/yst.m3u8
+#EXTINF:-1 ,江苏卫视HD
+http://223.82.250.72/live/hdjiangsustv/1.m3u8
+#EXTINF:-1 ,江苏卫视HD
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 ,江苏卫视HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=005&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,江苏卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/yst.m3u8
+#EXTINF:-1 ,江苏卫视高清
+http://118.123.60.17:8112/syhjcms_hls/10000100000000050000000000000075
+#EXTINF:-1 ,江苏卫视高清
+http://39.135.32.26:6610/000000001000/1000000001000001828/index.m3u8?i
+#EXTINF:-1 ,江苏城市
+http://183.207.249.8/PLTV/4/224/3221225929/index.m3u8
+#EXTINF:-1 ,江苏影视
+http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
+#EXTINF:-1 ,江苏徐州云龙湖风景区云龙山观景台西
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1 ,江苏教育
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
+#EXTINF:-1 ,江苏新闻广播
+http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8
+#EXTINF:-1 ,江苏移动-CCTV6FHD2
+http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
+#EXTINF:-1 ,江苏移动-CCTV6FHD3
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
+#EXTINF:-1 ,江苏移动-CCTV6FHD4
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227301/index.m3u8
+#EXTINF:-1 ,江苏移动-CCTV14
+http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225813/index.m3u8
+#EXTINF:-1 ,江苏移动-CCTV高尔夫网球
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226420/index.m3u8
+#EXTINF:-1 ,江苏移动-NewTV搏击2
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226803/index.m3u8
+#EXTINF:-1 ,江苏移动-NewTV精品电影FHD
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 ,江苏移动-卡卡少儿
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221226097/index.m3u8
+#EXTINF:-1 ,江苏移动-嘉佳卡通
+http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221226099/index.m3u8
+#EXTINF:-1 ,江苏移动-影视剧频道
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227372/index.m3u8
+#EXTINF:-1 ,江苏移动-炫动卡通2
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
+#EXTINF:-1 ,江苏移动-金鹰卡通
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+#EXTINF:-1 ,江苏经典流行音乐广播
+http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
+#EXTINF:-1 ,江苏综艺
+http://183.207.249.12/PLTV/4/224/3221225931/index.m3u8?icpid=88888888&from=5&ocs=2_183.207.249.13_80&hms_devid=784
+#EXTINF:-1 ,江苏金陵之声
+http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
+#EXTINF:-1 ,江苏金陵之声网络台
+http://lzlive.vojs.cn/O7QzcMu/92/live.m3u8
+#EXTINF:-1 ,江西卫视
+http://121.31.30.90:8085/ysten-business/live/jiangxistv/1.m3u8
+#EXTINF:-1 ,江西卫视
+http://223.110.245.170/PLTV/3/224/3221225536/index.m3u8
+#EXTINF:-1 ,江西卫视
+http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv01.m3u8
+#EXTINF:-1 ,江西卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jiangxistv/1.m3u8
+#EXTINF:-1 ,江西卫视FHD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8
+#EXTINF:-1 ,江西卫视HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=040&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,江西卫视高清
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226044/index.m3u8
+#EXTINF:-1 ,江西卫视高清
+http://117.169.120.140:8080/live/jiangxistv/.m3u8
+#EXTINF:-1 ,江西婺源01(回放)
+https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
+#EXTINF:-1 ,江西新闻HD
+http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv07.m3u8
+#EXTINF:-1 ,江西都市频道
+http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv02.m3u8
+#EXTINF:-1 ,江西龙虎山山涧栈道(回放)
+https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
+#EXTINF:-1 ,江门综合
+http://218.17.99.211:5080/hls/ttsw6ccn.m3u8
+#EXTINF:-1 ,江阴新闻综合
+http://w3.wifijiangyin.com:1936/live/xwzh_gq/playlist.m3u8
+#EXTINF:-1 ,江阴民生频道
+http://w3.wifijiangyin.com:1936/live/mspd_gq/playlist.m3u8
+#EXTINF:-1 ,汶川映秀新城
+https://gccncc.v.wscdns.com/gc/wcyxxc01_1/index.m3u8
+#EXTINF:-1 ,沁阳文化旅游
+http://live.qinyangtv.com/channel2/sd/live.m3u8
+#EXTINF:-1 ,沁阳新闻综合
+http://live.qinyangtv.com/channel1/sd/live.m3u8
+#EXTINF:-1 ,沂水电视一套
+http://60.213.23.98:8081/live/ys1.m3u8
+#EXTINF:-1 ,沂水电视二套
+http://60.213.23.98:8081/live/ys2.m3u8
+#EXTINF:-1 ,沙河新闻综合
+http://hbsh.chinashadt.com:2036/live/1.stream/playlist.m3u8
+#EXTINF:-1 ,沧县电视二套
+http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8
+#EXTINF:-1 ,沧县电视综合
+http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8
+#EXTINF:-1 ,河北
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225632/index.m3u8
+#EXTINF:-1 ,河北公共
+http://weblive.hebtv.com/live/hbgg_lc/index.m3u8
+#EXTINF:-1 ,河北公共
+http://weblive.hebtv.com/live/hbgg_bq/index.m3u8
+#EXTINF:-1 ,河北农民
+http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream/playlist.m3u8
+#EXTINF:-1 ,河北农民
+http://weblive.hebtv.com/live/nmpd_bq/index.m3u8
+#EXTINF:-1 ,河北农民
+http://weblive.hebtv.com/live/nmpd_lc/index.m3u8
+#EXTINF:-1 ,河北卫视
+http://hbpx.chinashadt.com:2036/live/px4.stream/playlist.m3u8
+#EXTINF:-1 ,河北卫视
+http://121.31.30.90:8085/ysten-business/live/hebeistv/1.m3u8
+#EXTINF:-1 ,河北卫视
+http://223.82.250.72/live/hebeistv/1.m3u8
+#EXTINF:-1 ,河北卫视
+http://121.31.30.90:8085/ysten-business/live/hebeistv/yst.m3u8
+#EXTINF:-1 ,河北卫视
+http://111.40.205.87/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 ,河北卫视
+http://111.40.205.76/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 ,河北卫视
+http://weblive.hebtv.com/live/hbwsbq_bq/index.m3u8
+#EXTINF:-1 ,河北卫视
+http://weblive.hebtv.com/live/hbwsbq_lc/index.m3u8
+#EXTINF:-1 ,河北卫视
+http://live01.hebtv.com/channels/hebtv/video_channel_04/flv:800k/live?1234567890
+#EXTINF:-1 ,河北卫视HD
+http://weblive.hebtv.com/live/hbws_lc/index.m3u8
+#EXTINF:-1 ,河北卫视HD-2
+http://weblive.hebtv.com/live/hbws_bq.m3u8
+#EXTINF:-1 ,河北卫视高清
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226013/index.m3u8
+#EXTINF:-1 ,河北少儿
+http://weblive.hebtv.com/live/hbse_bq/index.m3u8
+#EXTINF:-1 ,河北少儿
+http://weblive.hebtv.com/live/hbse_lc/index.m3u8
+#EXTINF:-1 ,河北影视
+http://weblive.hebtv.com/live/hbys_bq/index.m3u8
+#EXTINF:-1 ,河北影视
+http://weblive.hebtv.com/live/hbys_lc/index.m3u8
+#EXTINF:-1 ,河北影视
+http://wuqiao.chinashadt.com:2035/live/di7.stream/playlist.m3u8
+#EXTINF:-1 ,河北影视
+http://live01.hebtv.com/channels/hebtv/video_channel_06/m3u8:800k/live
+#EXTINF:-1 ,河北晋州综合
+http://zhjz.chinashadt.com:2036/live/1.stream/playlist.m3u8
+#EXTINF:-1 ,河北经济
+http://wuqiao.chinashadt.com:2035/live/di3.stream/playlist.m3u8
+#EXTINF:-1 ,河北经济
+http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
+#EXTINF:-1 ,河北经济
+http://hbfc.chinashadt.com:2036/live/6.stream/playlist.m3u8
+#EXTINF:-1 ,河北经济
+http://weblive.hebtv.com/live/hbjj_lc/index.m3u8
+#EXTINF:-1 ,河北购物
+http://weblive.hebtv.com/live/sjgw_bq/index.m3u8
+#EXTINF:-1 ,河北都市
+http://weblive.hebtv.com/live/hbds_lc/index.m3u8
+#EXTINF:-1 ,河北都市
+http://weblive.hebtv.com/live/hbds_bq/index.m3u8
+#EXTINF:-1 ,河南卫视
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=3&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,河南卫视
+http://121.31.30.90:8085/ysten-business/live/henanstv/yst.m3u8
+#EXTINF:-1 ,河南卫视
+http://121.31.30.90:8085/ysten-business/live/henanstv/1.m3u8
+#EXTINF:-1 ,河南卫视
+http://183.207.249.7/PLTV/2/224/3221226065/index.m3u8
+#EXTINF:-1 ,河南卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/henanstv/1.m3u8
+#EXTINF:-1 ,河南卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/henan_2/index.m3u8
+#EXTINF:-1 ,河南卫视(电)
+http://59.46.18.134:8114/Fsv_otype=1?FvSeid=5bf181c25f226bb2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=33&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,河南卫视HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=019&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,河南卫视HD
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+#EXTINF:-1 ,河南欢腾购物
+http://123.163.119.21:9601/live/live7/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南郑州教育频道
+http://218.28.177.199:1935/live/mp4:500k/playlist.m3u8
+#EXTINF:-1 ,河口综合
+http://221.3.215.44:9099/hktv/hktv.m3u8
+#EXTINF:-1 ,河源综合
+http://dslive.grtn.cn/hyzh/sd/live.m3u8
+#EXTINF:-1 ,泉州一台
+http://live.qztvxwgj.com/live/news.m3u8
+#EXTINF:-1 ,泉州四台
+http://live.qztvxwgj.com/live/mny.m3u8
+#EXTINF:-1 ,洛阳公共频道
+http://live2.lytv.com.cn:1935/live/LYTV3-2/playlist.m3u8
+#EXTINF:-1 ,洛阳综合频道
+http://live1.lytv.com.cn:1935/live/LYTV1-2/playlist.m3u8
+#EXTINF:-1 ,济南交通
+http://ts1.ijntv.cn/jnjtpl/sd/live.m3u8
+#EXTINF:-1 ,济南商务
+http://ts1.ijntv.cn/jnsw/sd/live.m3u8
+#EXTINF:-1 ,济南娱乐
+http://ts2.ijntv.cn/jnyl/sd/live.m3u8
+#EXTINF:-1 ,济南少儿
+http://ts2.ijntv.cn/jnse/sd1/live.m3u8
+#EXTINF:-1 ,济南少儿频道
+http://ts2.ijntv.cn/jnse/sd1/live.m3u8?_upt=c3e918011515232399
+#EXTINF:-1 ,济南影视
+http://ts1.ijntv.cn/yshd/hd/live.m3u8
+#EXTINF:-1 ,济南影视
+http://ts1.ijntv.cn/jnyd/sd/live.m3u8?_upt=eff967461515232113
+#EXTINF:-1 ,济南影视
+http://ts1.ijntv.cn/jnyd/playlist.m3u8?_upt=34997bea1515232117
+#EXTINF:-1 ,济南新闻
+http://ts1.ijntv.cn/jnxwpl/sd/live.m3u8
+#EXTINF:-1 ,济南新闻
+http://ts1.ijntv.cn/xwhd/hd/live.m3u8
+#EXTINF:-1 ,济南新闻综合
+http://ts1.ijntv.cn/xwhd/playlist.m3u8
+#EXTINF:-1 ,济南新闻综合
+http://ts1.ijntv.cn/xwhd/hd/live.m3u8?_upt=5aa48e6d1515232496
+#EXTINF:-1 ,济南生活
+http://ts2.ijntv.cn/jnsh/sd/live.m3u8
+#EXTINF:-1 ,济南生活
+http://ts2.ijntv.cn/jnsh/sd/live.m3u8?_upt=2b7d9cd51515232266
+#EXTINF:-1 ,济南经济
+http://ts1.ijntv.cn/jnjjpl/sd/live.m3u8
+#EXTINF:-1 ,济南都市
+http://ts1.ijntv.cn/jnds/sd/live.m3u8
+#EXTINF:-1 ,济南都市
+http://ts1.ijntv.cn/jnds/sd/live.m3u8?_upt=4c1ade781515231854
+#EXTINF:-1 ,济南都市
+http://ts1.ijntv.cn/jnds/playlist.m3u8?_upt=3c194fc31515231856
+#EXTINF:-1 ,济宁公共频道
+http://lives.jnnews.tv/video/s10001-JTV3/index.m3u8
+#EXTINF:-1 ,济宁图文频道
+http://lives.jnnews.tv/video/s10001-JTV4/index.m3u8
+#EXTINF:-1 ,济宁教育频道
+http://lives.jnnews.tv/video/s10001-JTV2/index.m3u8
+#EXTINF:-1 ,浙江6频道
+http://117.148.187.37/PLTV/88888888/224/3221226237/index.m3u8
+#EXTINF:-1 ,浙江乌镇全景(回放)
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 ,浙江乌镇西市河(回放)
+https://gccncc.v.wscdns.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 ,浙江乌镇龙形田
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 ,浙江余姚姚江文化
+http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+#EXTINF:-1 ,浙江卫视
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 ,浙江卫视
+http://121.31.30.90:8085/ysten-business/live/zhejiangstv/1.m3u8
+#EXTINF:-1 ,浙江卫视
+http://183.207.249.9/PLTV/3/224/3221225544/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://121.31.30.90:8085/ysten-business/live/zhejiangstv/yst.m3u8
+#EXTINF:-1 ,浙江卫视FHD
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227215/index.m3u8
+#EXTINF:-1 ,浙江卫视FHD
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227483/index.m3u8
+#EXTINF:-1 ,浙江卫视FHD
+http://117.148.187.37/PLTV/88888888/224/3221226136/index.m3u8
+#EXTINF:-1 ,浙江卫视FHD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8
+#EXTINF:-1 ,浙江卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
+#EXTINF:-1 ,浙江卫视HD
+http://117.148.187.37/PLTV/88888888/224/3221226474/index.m3u8
+#EXTINF:-1 ,浙江卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8
+#EXTINF:-1 ,浙江少儿
+http://112.17.40.140/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1 ,浙江教育科技
+http://117.148.187.37/PLTV/88888888/224/3221226118/index.m3u8
+#EXTINF:-1 ,浙江海宁新闻综合
+http://stream.haining.tv/hnxw/sd/live.m3u8
+#EXTINF:-1 ,浙江经济生活
+http://117.148.187.37/PLTV/88888888/224/3221226423/index.m3u8
+#EXTINF:-1 ,浙江金华公共频道
+http://stream2.jinhua.com.cn/jjsh/app/live.m3u8
+#EXTINF:-1 ,浙江金华新闻综合
+http://stream2.jinhua.com.cn/xwzh/app/live.m3u8
+#EXTINF:-1 ,海南三亚
+http://hnsy.chinashadt.com:1935/live/syzb.stream/chunklist_w661617814.m3u8
+#EXTINF:-1 ,海南旅游卫视
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=112&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,海南藏语
+http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
+#EXTINF:-1 ,海口双创频道
+http://hls.hkbtv.cn/hkbtv/0a2dnq6ZoKKknKeL4K2dmqqW7KGgn6uWoqU/playlist.m3u8
+#EXTINF:-1 ,海口新闻综合
+http://hls.hkbtv.cn/hkbtv/0a2dnq6ZoKKknKmL4K2dmqqW7KGgn6uWoqk/playlist.m3u8
+#EXTINF:-1 ,海口生活娱乐
+http://hls.hkbtv.cn/hkbtv/0a2dnq6ZoKKknKiL4K2dmqqW7KGgn6uWoqc/playlist.m3u8
+#EXTINF:-1 ,海宁生活服务
+http://stream.haining.tv/hnfw/sd/live.m3u8
+#EXTINF:-1 ,海峡卫视
+http://stream6.fjtv.net/haixia/sd/live.m3u8
+#EXTINF:-1 ,海西州综合频道
+http://stream.haixitv.cn/1/sd/live.m3u8
+#EXTINF:-1 ,涡阳新闻综合
+http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.M3U8
+#EXTINF:-1 ,深圳卫视
+http://121.31.30.90:8085/ysten-business/live/shenzhenstv/1.m3u8
+#EXTINF:-1 ,深圳卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/hdshenzhenstv/1.m3u8
+#EXTINF:-1 ,深圳卫视
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000155.m3u8
+#EXTINF:-1 ,深圳卫视
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227453/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://111.40.205.87/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://ivi.bupt.edu.cn/hls/sztv.m3u8
+#EXTINF:-1 ,深圳卫视
+http://111.40.205.87/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://121.31.30.90:8085/ysten-business/live/shenzhenstv/yst.m3u8
+#EXTINF:-1 ,深圳卫视HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=042&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,深圳卫视HD
+http://223.82.250.72/live/hdshenzhenstv/1.m3u8
+#EXTINF:-1 ,深圳卫视HD
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 ,深圳卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdshenzhenstv/yst.m3u8
+#EXTINF:-1 ,深圳卫视HD
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225997/index.m3u8
+#EXTINF:-1 ,清丰党建频道
+http://hnqf.chinashadt.com:2036/live/4.stream/playlist.m3u8
+#EXTINF:-1 ,清丰有线频道
+http://hnqf.chinashadt.com:2036/live/2.stream/playlist.m3u8
+#EXTINF:-1 ,清丰综合频道
+http://hnqf.chinashadt.com:2036/live/5.stream/playlist.m3u8
+#EXTINF:-1 ,清远公共
+http://stream1.0763f.com/qygg/sd/live.m3u8
+#EXTINF:-1 ,清远综合
+http://stream1.0763f.com/qyzh/sd/live.m3u8
+#EXTINF:-1 ,渑池新闻综合
+http://hnmc.chinashadt.com:3036/live/1002.stream/playlist.m3u8
+#EXTINF:-1 ,温州公共频道
+http://hls.dhtv.cn:8080/live/v4_14.m3u8
+#EXTINF:-1 ,温州新闻综合
+http://hls.dhtv.cn:8080/live/v1_15.m3u8
+#EXTINF:-1 ,温州经济科教
+http://hls.dhtv.cn:8080/live/v2_12.m3u8
+#EXTINF:-1 ,温州都市生活
+http://hls.dhtv.cn:8080/live/v3_13.m3u8
+#EXTINF:-1 ,温柔的谎言
+http://aldirect.hls.huya.com/huyalive/29359996-2689613622-11551802545366106112-2847687550-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,温江电视台
+http://tp01.videocc.net/cnbaina/cnbaina/playlist.m3u8
+#EXTINF:-1 ,港台电视RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1 ,湖北休闲指南
+http://live.cjyun.org/video/s10008-klcz2018/index.m3u8
+#EXTINF:-1 ,湖北公共新闻
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000148.m3u8
+#EXTINF:-1 ,湖北公共新闻
+http://live.cjyun.org/video/s10008-ggxw2018/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://111.40.205.87/PLTV/88888888/224/3221225705/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=5&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,湖北卫视
+http://111.40.205.87/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000144.m3u8
+#EXTINF:-1 ,湖北卫视
+http://121.31.30.90:8085/ysten-business/live/hubeistv/yst.m3u8
+#EXTINF:-1 ,湖北卫视
+http://111.40.205.87/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227211/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://121.31.30.90:8085/ysten-business/live/hubeistv/1.m3u8
+#EXTINF:-1 ,湖北卫视FHD
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227211/index.m3u8
+#EXTINF:-1 ,湖北卫视FHD
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8
+#EXTINF:-1 ,湖北卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdhubeistv/yst.m3u8
+#EXTINF:-1 ,湖北卫视HD
+http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
+#EXTINF:-1 ,湖北卫视HD
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 ,湖北卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdhubeistv/1.m3u8
+#EXTINF:-1 ,湖北卫视HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=018&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,湖北卫视高清
+http://39.135.32.27:6610/000000001000/1000000001000010355/index.m3u8?i
+#EXTINF:-1 ,湖北垄上
+http://live.cjyun.org/video/s10008-ls2018s/index.m3u8
+#EXTINF:-1 ,湖北影视
+http://live.cjyun.org/video/s10008-hbys2018/index.m3u8
+#EXTINF:-1 ,湖北教育
+http://live.cjyun.org/video/s10008-jy2018/index.m3u8
+#EXTINF:-1 ,湖北生活
+http://live.cjyun.org/video/s10008-ty2018/index.m3u8
+#EXTINF:-1 ,湖北电视台
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000146.m3u8
+#EXTINF:-1 ,湖北经视
+http://live.cjyun.org/video/s10008-hbjs2018/index.m3u8
+#EXTINF:-1 ,湖北经视
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000145.m3u8
+#EXTINF:-1 ,湖北综合
+http://live.cjyun.org/video/s10008-zh2018/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://121.31.30.90:8085/ysten-business/live/hunanstv/1.m3u8
+#EXTINF:-1 ,湖南卫视
+http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
+#EXTINF:-1 ,湖南卫视
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225854/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://121.31.30.90:8085/ysten-business/live/hunanstv/yst.m3u8
+#EXTINF:-1 ,湖南卫视FHD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8
+#EXTINF:-1 ,湖南卫视FHD
+http://117.148.187.37/PLTV/88888888/224/3221226162/index.m3u8
+#EXTINF:-1 ,湖南卫视FHD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8
+#EXTINF:-1 ,湖南卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8
+#EXTINF:-1 ,湖南卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdhunanstv/yst.m3u8
+#EXTINF:-1 ,湖南卫视HD
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225908/index.m3u8
+#EXTINF:-1 ,湖南卫视HD
+http://223.82.250.72/live/hdhunanstv/1.m3u8
+#EXTINF:-1 ,湖南卫视HD
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 ,湖南卫视高清HD3
+http://39.134.52.182/wh7f454c46tw1696467131_1868720566/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225981/index.m3u8
+#EXTINF:-1 ,湖南娄底公共频道2
+http://mms.ldntv.cn:1935/live/gonggong/chunklist_w204952522.m3u8
+#EXTINF:-1 ,湖南娄底综合频道
+http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 ,湖南张家界2公共
+http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
+#EXTINF:-1 ,湖南都市
+http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8
+#EXTINF:-1 ,湘潭公共频道
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 ,湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 ,湘西凤凰古城东关门
+https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 ,滁州公共频道
+http://183.167.193.45:1935/live/cztvgg/playlist.m3u8
+#EXTINF:-1 ,滁州新闻综合
+http://183.167.193.45:1935/live/cztvzh/playlist.m3u8
+#EXTINF:-1 ,滁州科教频道
+http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
+#EXTINF:-1 ,滦县综合频道
+http://hblxx.chinashadt.com:2036/live/stream:lx1.stream/playlist.m3u8
+#EXTINF:-1 ,滦县综艺频道
+http://hblxx.chinashadt.com:2036/live/stream:lx2.stream/playlist.m3u8
+#EXTINF:-1 ,滨城综合频道
+http://sdbz.chinashadt.com:2036/live/1.stream/playlist.m3u8
+#EXTINF:-1 ,滨州公共
+http://stream.bzcm.net/1/sd/live.m3u8
+#EXTINF:-1 ,滨州新闻
+http://stream.bzcm.net/2/sd/live.m3u8
+#EXTINF:-1 ,滨州测试频道
+http://stream.bzcm.net/4/sd/live.m3u8
+#EXTINF:-1 ,滨海一套
+http://60.30.52.41/live/bhtv1/playlist.m3u8
+#EXTINF:-1 ,滨海二套
+http://60.30.52.41/live/bhtv2/playlist.m3u8
+#EXTINF:-1 ,滨海新闻
+http://cstvpull.live.wscdns.com/live/tianjinbh.flv
+#EXTINF:-1 ,滨海新闻综合
+http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8
+#EXTINF:-1 ,滨海综艺
+http://cstvpull.live.wscdns.com/live/tianjinbh2.flv
+#EXTINF:-1 ,漫威电影
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 ,漳州新闻综合
+http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
+#EXTINF:-1 ,潮安影视
+http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8
+#EXTINF:-1 ,潮安影视
+http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
+#EXTINF:-1 ,潮安综合
+http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
+#EXTINF:-1 ,潮安综合
+http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
+#EXTINF:-1 ,潮安综艺
+http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
+#EXTINF:-1 ,潮州公共
+http://live.zscz0768.com/live/ggpd.m3u8
+#EXTINF:-1 ,潮州综合
+http://dslive.grtn.cn/czzh/sd/live.m3u8
+#EXTINF:-1 ,潮州综合
+http://live.zscz0768.com/live/zhpd.m3u8
+#EXTINF:-1 ,犍为新闻综合
+http://tv.scwlqw.cn:3100/hls/kqcyufpi/index.m3u8
+#EXTINF:-1 ,甘南综合频道
+http://live.gnrtv.com:9600/live/live1/tzwj_video.m3u8
+#EXTINF:-1 ,甘南藏语频道
+http://live.gnrtv.com:9600/live/live2/tzwj_video.m3u8
+#EXTINF:-1 ,甘肃公共频道
+http://stream.gstv.com.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://202.107.188.247:5002/gansu_hdcq-1.m3u8?token=ADXgSgEXoEoCP6BK_yoongoo&amp;ct=wifi&amp;gid=gansu_hdcq&amp;sid=gansu_hd
+#EXTINF:-1 ,甘肃卫视
+http://111.40.205.76/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=142&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221226087/index.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://117.169.120.140:8080/live/gansustv/.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://121.31.30.90:8085/ysten-business/live/gansustv/1.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://121.31.30.90:8085/ysten-business/live/gansustv/yst.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226033/index.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://stream.gstv.com.cn/gsws/sd/live.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://111.40.205.87/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 ,甘肃卫视(电)
+http://59.46.18.134:8114/Fsv_otype=1?FvSeid=5bf181c25f226bb2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=34&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,甘肃品质生活
+http://stream.gstv.com.cn/pzsh/sd/live.m3u8
+#EXTINF:-1 ,甘肃少儿频道
+http://stream.gstv.com.cn/sepd/sd/live.m3u8
+#EXTINF:-1 ,甘肃文化影视
+http://117.156.28.119/270000001111/1110000067/index.m3u8
+#EXTINF:-1 ,甘肃文化影视
+http://stream.gstv.com.cn/whys/sd/live.m3u8
+#EXTINF:-1 ,甘肃移动电视
+http://stream.gstv.com.cn/ydds/sd/live.m3u8
+#EXTINF:-1 ,甘肃经济
+http://117.156.28.119/270000001111/1110000070/index.m3u8
+#EXTINF:-1 ,甘肃经济频道
+http://stream.gstv.com.cn/jjpd/sd/live.m3u8
+#EXTINF:-1 ,甘肃都市频道
+http://stream.gstv.com.cn/dspd/sd/live.m3u8
+#EXTINF:-1 ,生活频道
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8
+#EXTINF:-1 ,电白综合
+http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8
+#EXTINF:-1 ,电白综合
+http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8
+#EXTINF:-1 ,电白视窗
+http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8
+#EXTINF:-1 ,电白视窗
+http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8
+#EXTINF:-1 ,电锯惊魂
+https://al.hls.huya.com/huyalive/29106097-2689451202-11551104956777889792-2789274590-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,番禺
+http://live.pybtv.cn/channel1/sd/live.m3u8
+#EXTINF:-1 ,白城新闻综合
+http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+#EXTINF:-1 ,睛彩乌海频道
+http://1.31.80.38:180/livestream0/playlist.m3u8
+#EXTINF:-1 ,睛彩重庆
+http://219.153.252.50/PLTV/88888888/224/3221225645/chunklist.m3u8
+#EXTINF:-1 ,睢宁三农频道
+http://jssn.chinashadt.com:2036/live/1004.stream/playlist.m3u8
+#EXTINF:-1 ,睢宁生活教育
+http://jssn.chinashadt.com:2036/live/1003.stream/playlist.m3u8
+#EXTINF:-1 ,睢宁综合频道
+http://jssn.chinashadt.com:2036/live/1002.stream/playlist.m3u8
+#EXTINF:-1 ,睢宁资讯频道
+http://jssn.chinashadt.com:2036/live/1005.stream/playlist.m3u8
+#EXTINF:-1 ,碟中谍6：全面瓦解
+http://vip.yingshidaqian.com/20180913/XVG0xeVF/index.m3u8
+#EXTINF:-1 ,磁县综合频道
+http://hbcx.chinashadt.com:1937/live/stream:hdxw.stream/playlist.m3u8
+#EXTINF:-1 ,福州少儿
+http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
+#EXTINF:-1 ,福州少儿
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 ,福州影视
+http://live1.fzntv.cn/live/zohi_fztv2/playlist.m3u8
+#EXTINF:-1 ,福州影视
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 ,福州生活
+http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+#EXTINF:-1 ,福州生活
+http://live1.fzntv.cn/live/zohi_fztv3/playlist.m3u8
+#EXTINF:-1 ,福州综合
+http://live1.fzntv.cn/live/zohi_fztv1/playlist.m3u8
+#EXTINF:-1 ,福州综合
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+#EXTINF:-1 ,福建公共
+http://stream5.fjtv.net/ggpd/sd/live.m3u8
+#EXTINF:-1 ,福建导视
+http://fjnh.chinashadt.com:2036/live/stream:fjds.stream/playlist.m3u8
+#EXTINF:-1 ,福建少儿
+http://stream6.fjtv.net/child/sd/live.m3u8
+#EXTINF:-1 ,福建新闻
+http://stream5.fjtv.net/xwpd/sd/live.m3u8
+#EXTINF:-1 ,福建旅游
+http://stream6.fjtv.net/dspd/sd/live.m3u8
+#EXTINF:-1 ,福建武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1 ,福建漳州六鳌翡翠湾(回放)
+https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
+#EXTINF:-1 ,福建漳州醉美沙滩翡翠湾(回放)
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 ,福建经济
+http://stream6.fjtv.net/jjpd/sd/live.m3u8
+#EXTINF:-1 ,福海维语综合
+http://klmyyun.chinavas.com/hls/fuhai1.m3u8
+#EXTINF:-1 ,秭归新闻综合
+http://zigui.live.cjyun.org/video/s10111-ZGTV1.m3u8
+#EXTINF:-1 ,綦江综合频道
+http://113.207.29.195:1935/app_2/_definst_/ls_25.stream/playlist.m3u8
+#EXTINF:-1 ,红安综合
+http://hongan.live.cjyun.org/video/s10063-HAZH.m3u8
+#EXTINF:-1 ,红河县综合
+http://221.3.215.43:9099/hhtv/hhtv.m3u8
+#EXTINF:-1 ,红河州新闻综合
+http://221.3.215.43:9099/ch1/ch1.m3u8
+#EXTINF:-1 ,红河州经济生活
+http://221.3.215.43:9099/ch2/ch2.m3u8
+#EXTINF:-1 ,绥江综合频道
+http://60.160.23.32:6055/sjtv/sjtv.m3u8
+#EXTINF:-1 ,绩溪新闻频道
+http://124.112.228.134:1935/live/zongyi/playlist.m3u8
+#EXTINF:-1 ,绿春综合
+http://221.3.215.44:9099/lctv/lctv.m3u8
+#EXTINF:-1 ,罗田旅游
+http://luotian.live.cjyun.org/video/s10013-LTLY/index.m3u8
+#EXTINF:-1 ,罗田综合
+http://luotian.live.cjyun.org/video/s10013-LTZH/index.m3u8
+#EXTINF:-1 ,肃北综合频道
+http://124.152.39.138:8011/hls-live/livepkgr1/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 ,舟山公共生活
+http://live.wifizs.cn/ggsh/sd/live.m3u8
+#EXTINF:-1 ,舟山新闻综合
+http://live.wifizs.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 ,舟山新闻综合
+http://stream.wifizs.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 ,舟山群岛旅游
+http://live.wifizs.cn/qdly/sd/live.m3u8
+#EXTINF:-1 ,芜湖公共频道
+http://live1.wuhubtv.com/channel3/sd/live.m3u8
+#EXTINF:-1 ,芜湖县新闻综合
+http://220.178.172.47:8090/live/ch0.m3u8
+#EXTINF:-1 ,芜湖教育频道
+http://live1.wuhubtv.com/channel4/sd/live.m3u8
+#EXTINF:-1 ,芜湖新闻综合
+http://live1.wuhubtv.com/channel1/sd/live.m3u8
+#EXTINF:-1 ,芜湖生活频道
+http://live1.wuhubtv.com/channel2/sd/live.m3u8
+#EXTINF:-1 ,荆州垄上
+http://33058.hlsplay.aodianyun.com/guangdianyun_33058/tv_channel_325.m3u8
+#EXTINF:-1 ,荆州新闻
+http://33058.hlsplay.aodianyun.com/guangdianyun_33058/tv_channel_216.m3u8
+#EXTINF:-1 ,荒野挑战
+http://aldirect.hls.huya.com/huyalive/28466698-2689656358-11551986095088467968-3048959616-10057-A-1525510878-1_1200.m3u8
+#EXTINF:-1 ,荣昌文化生活
+http://183.64.181.25:40023/rongchang02.m3u8
+#EXTINF:-1 ,荣昌综合
+http://183.64.181.25:40023/rongchang01.m3u8
+#EXTINF:-1 ,萍乡教育频道
+http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv2stream.m3u8
+#EXTINF:-1 ,营山电视台
+http://live.ysxtv.cn:8081/Ch1/playlist.m3u8
+#EXTINF:-1 ,萧山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 ,萧山生活频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 ,蒙自综合
+http://223.255.28.42:9090/mz1/mz1.m3u8
+#EXTINF:-1 ,蓬安新闻综合
+http://palive.patv123.com:8091/live/xwpd_800K.m3u8
+#EXTINF:-1 ,蚌埠公交频道
+http://newvod.ahbbtv.com:1935/live/smil:gjpd_copy.smil/playlist.m3u8
+#EXTINF:-1 ,蚌埠公共频道
+http://newvod.ahbbtv.com:1935/live/smil:ggpd_copy.smil/playlist.m3u8
+#EXTINF:-1 ,蚌埠新闻综合
+http://newvod.ahbbtv.com:1935/live/smil:xwpd_copy.smil/playlist.m3u8
+#EXTINF:-1 ,蚌埠生活频道
+http://newvod.ahbbtv.com:1935/live/smil:shpd_copy.smil/playlist.m3u8
+#EXTINF:-1 ,蛇口综合
+http://218.17.99.211:82/hls/d4encs75.m3u8
+#EXTINF:-1 ,蜜雪薇琪-爱斯基摩
+http://hc.yinyuetai.com/uploads/videos/common/161C012F962CA9AE2FC65BA9F9C1209F.flv
+#EXTINF:-1 ,蜡笔小新
+http://tx.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1.m3u8
+#EXTINF:-1 ,衡水公共频道
+http://hls.hsrtv.cn/hls/hstv3.m3u8
+#EXTINF:-1 ,衡水影视娱乐
+http://hls.hsrtv.cn/hls/hstv2.m3u8
+#EXTINF:-1 ,衡水新闻综合
+http://hls.hsrtv.cn/hls/hstv1.m3u8
+#EXTINF:-1 ,袁州综合频道
+http://jxyz.chinashadt.com:8036/live/yz1.stream/playist.m3u8
+#EXTINF:-1 ,襄阳公共
+http://xiangyang.live.cjyun.org/video/s10125-education_hd/index.m3u8
+#EXTINF:-1 ,襄阳经济生活
+http://xiangyang.live.cjyun.org/video/s10125-society_hd/index.m3u8
+#EXTINF:-1 ,襄阳综合
+http://xiangyang.live.cjyun.org/video/s10125-news_hd/index.m3u8
+#EXTINF:-1 ,西安-1
+http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+#EXTINF:-1 ,西安-2
+http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+#EXTINF:-1 ,西安-3
+http://stream2.xiancity.cn/xatv3/sd/live.m3u8
+#EXTINF:-1 ,西安-4
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+#EXTINF:-1 ,西安丝路
+http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+#EXTINF:-1 ,西安音乐综艺
+http://stream2.xiancity.cn/xatv6/sd/live.m3u8
+#EXTINF:-1 ,西山电视台
+http://218.26.97.12:5021/live_hls/1/c01.m3u8
+#EXTINF:-1 ,西昌综合
+http://stream.xctv.news:8084/1a6c203cd4644dd9a27a4b07a1159e14/h264_500k_ts/index.m3u8?type=flv2hls_m3u8
+#EXTINF:-1 ,西昌综合
+http://stream.xctv.news:8084/1a6c203cd4644dd9a27a4b07a1159e14/h264_500k_ts/index.m3u8?type=flv2hls_m3u8
+#EXTINF:-1 ,西游记
+http://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,西藏卫视
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=208&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,西藏卫视
+http://111.40.205.87/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 ,西藏卫视
+http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
+#EXTINF:-1 ,西藏卫视
+http://ivi.bupt.edu.cn/hls/xztv.m3u8
+#EXTINF:-1 ,西藏卫视
+http://121.31.30.90:8085/ysten-business/live/xizangstv/yst.m3u8
+#EXTINF:-1 ,西藏卫视
+http://121.31.30.90:8085/ysten-business/live/xizangstv/1.m3u8
+#EXTINF:-1 ,西虹市首富
+https://zuikzy.win7i.com/2018/07/30/hCt7GSGU1sAgOC8j/playlist.m3u8
+#EXTINF:-1 ,西青新闻
+http://221.238.209.44:81/hls/live1.m3u8
+#EXTINF:-1 ,贵州卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/guizhoustv/1.m3u8
+#EXTINF:-1 ,贵州卫视
+http://121.31.30.90:8085/ysten-business/live/guizhoustv/1.m3u8
+#EXTINF:-1 ,贵州卫视
+http://223.82.250.72/live/guizhoustv/1.m3u8
+#EXTINF:-1 ,贵州卫视
+http://121.31.30.90:8085/ysten-business/live/guizhoustv/yst.m3u8
+#EXTINF:-1 ,贵州卫视
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://111.40.205.87/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000165.m3u8
+#EXTINF:-1 ,贵州卫视HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=041&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,贵州省兴义市万峰林
+https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 ,贵州省兴义市马岭河峡谷
+https://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8
+#EXTINF:-1 ,贵州省贞丰市双乳峰景区
+https://gccncc.v.wscdns.com/gc/xysrf_1/index.m3u8
+#EXTINF:-1 ,赌博电影
+http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+#EXTINF:-1 ,赞皇电视台
+http://hbzz.chinashadt.com:2036/zhibo/4.stream/chunklist.m3u8
+#EXTINF:-1 ,赞皇综合
+http://hbzz.chinashadt.com:2036/zhibo/4.stream/playlist.m3u8
+#EXTINF:-1 ,赤壁一套
+http://hbcb.chinashadt.com:1936/live/tv1.stream/playlist.m3u8
+#EXTINF:-1 ,赤壁二套
+http://hbcb.chinashadt.com:1936/live/tv2.stream/playlist.m3u8
+#EXTINF:-1 ,赵县电视一套
+http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8
+#EXTINF:-1 ,赵县电视二套
+http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream_360p/playlist.m3u8
+#EXTINF:-1 ,赵县电视二套
+http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream/playlist.m3u8
+#EXTINF:-1 ,赵本山小品
+https://aldirect.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,辽宁公共
+http://lms.csytv.com/Live/124/live/livestream.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://183.207.249.9/PLTV/3/224/3221225566/index.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/liaoningstv/1.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://121.31.30.90:8085/ysten-business/live/liaoningstv/yst.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://111.40.205.87/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://121.31.30.90:8085/ysten-business/live/liaoningstv/1.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://ivi.bupt.edu.cn/hls/lntv.m3u8
+#EXTINF:-1 ,辽宁卫视FHD
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
+#EXTINF:-1 ,辽宁卫视HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=038&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,辽宁沈阳新闻频道
+http://lms.csytv.com/Live/122/live/livestream.m3u8
+#EXTINF:-1 ,辽宁经济
+http://lms.csytv.com/Live/123/live/livestream.m3u8
+#EXTINF:-1 ,辽源新闻综合
+http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+#EXTINF:-1 ,达州公共频道
+http://tv.drs.dzxw.net/channellive/dzrtv2.flv
+#EXTINF:-1 ,达州导视频道
+http://tv.drs.dzxw.net/channellive/dzrtv3.flv
+#EXTINF:-1 ,迁安快乐3频道
+http://app.qatv.cn:1936/live/stream:kl3pd.stream_720p/playlist.m3u8
+#EXTINF:-1 ,迁安新闻综合
+http://app.qatv.cn:1936/live/stream:xwzh.stream_720p/playlist.m3u8
+#EXTINF:-1 ,迁安生活影视
+http://app.qatv.cn:1937/live/stream:shfw.stream_720p/playlist.m3u8
+#EXTINF:-1 ,返校 Movie
+https://hong.tianzhen-zuida.com/20200116/18644_c3694188/index.m3u8
+#EXTINF:-1 ,迪庆综合
+http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
+#EXTINF:-1 ,迪庆藏语
+http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
+#EXTINF:-1 ,迭部电视台
+http://117.156.28.119/270000001111/1110000154/index.m3u8
+#EXTINF:-1 ,通化新闻
+http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+#EXTINF:-1 ,通江新闻综合
+http://118.122.193.139:8000/live/a40c93bf43fa6bf423671ee2303b5bd4/high/live.m3u8
+#EXTINF:-1 ,遂宁公共公益
+http://snlive.scsntv.com:8091/live/gggy.m3u8
+#EXTINF:-1 ,遂宁新闻综合
+http://snlive.scsntv.com:8091/live/xwzh.m3u8
+#EXTINF:-1 ,道
+http://yslk.chinashadt.com:1635/live/stream:di3.stream/playlist.m3u8
+#EXTINF:-1 ,邳州公共高清
+http://stream.pznews.com/pztv2/sd/live.m3u8
+#EXTINF:-1 ,邳州综合频道
+http://stream.pznews.com/pztv1/sd/live.m3u8
+#EXTINF:-1 ,邵东综合频道
+http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8
+#EXTINF:-1 ,邵武综合
+http://r.gslb.lecloud.com/live/hls/201606033000003fc13/desc.m3u8
+#EXTINF:-1 ,郑东新区千玺广场
+https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
+#EXTINF:-1 ,郸城新闻综合
+http://hndc.chinashadt.com:2036/live/stream:dctv-1.stream/playlist.m3u8
+#EXTINF:-1 ,郸城经济生活
+http://hndc.chinashadt.com:2036/live/stream:dctv-2.stream/playlist.m3u8
+#EXTINF:-1 ,都江堰秦堰楼(回放)
+https://gcalic.v.myalicdn.com/gc/djyqyl2_1/index.m3u8
+#EXTINF:-1 ,都江堰飞沙堰(回放)
+https://gcalic.v.myalicdn.com/gc/djyewm_1/index.m3u8
+#EXTINF:-1 ,都江堰鱼嘴(回放)
+https://gccncc.v.wscdns.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 ,酒泉公共
+http://117.156.28.119/270000001111/1110000002/index.m3u8
+#EXTINF:-1 ,重庆卫视
+http://111.40.205.87/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:-1 ,重庆卫视
+http://223.82.250.72/live/chongqingstv/1.m3u8
+#EXTINF:-1 ,重庆卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/chongqingstv/1.m3u8
+#EXTINF:-1 ,重庆卫视
+http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225707/1.m3u8
+#EXTINF:-1 ,重庆卫视
+http://121.31.30.90:8085/ysten-business/live/chongqingstv/1.m3u8
+#EXTINF:-1 ,重庆卫视
+http://121.31.30.90:8085/ysten-business/live/chongqingstv/yst.m3u8
+#EXTINF:-1 ,重庆卫视
+http://121.31.30.90:8085/ysten-business/live/congqingstv/yst.m3u8
+#EXTINF:-1 ,重庆卫视HD
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=016&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,重庆国际
+http://219.153.252.50/PLTV/88888888/224/3221225644/chunklist.m3u8
+#EXTINF:-1 ,重庆少儿
+http://219.153.252.50/PLTV/88888888/224/3221225625/chunklist.m3u8
+#EXTINF:-1 ,重庆少儿
+http://219.153.252.50/PLTV/88888888/224/3221225646/chunklist.m3u8
+#EXTINF:-1 ,重庆影视
+http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
+#EXTINF:-1 ,重庆手持电视
+http://219.153.252.50/PLTV/88888888/224/3221225637/chunklist.m3u8
+#EXTINF:-1 ,重庆文体娱乐
+http://219.153.252.50/PLTV/88888888/224/3221225630/chunklist.m3u8
+#EXTINF:-1 ,重庆新闻
+http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
+#EXTINF:-1 ,重庆时尚
+http://219.153.252.50/PLTV/88888888/224/3221225636/chunklist.m3u8
+#EXTINF:-1 ,重庆汽摩
+http://219.153.252.50/PLTV/88888888/224/3221225634/chunklist.m3u8
+#EXTINF:-1 ,重庆科教
+http://219.153.252.50/PLTV/88888888/224/3221225632/chunklist.m3u8
+#EXTINF:-1 ,重庆移动公交
+http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8
+#EXTINF:-1 ,重庆移动机场
+http://qxlmlive.cbg.cn:1935/app_2/ls_56.stream/chunklist.m3u8
+#EXTINF:-1 ,重庆移动电视
+http://219.153.252.50/PLTV/88888888/224/3221225628/chunklist.m3u8
+#EXTINF:-1 ,重庆都市
+http://219.153.252.50/PLTV/88888888/224/3221225631/chunklist.m3u8
+#EXTINF:-1 ,金华教育科技
+http://stream.jinhua.com.cn/jykj/app/live.m3u8
+#EXTINF:-1 ,金华都市农村
+http://stream.jinhua.com.cn/dsnc/app/live.m3u8
+#EXTINF:-1 ,金庸系列片
+http://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,金昌公共频道
+http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
+#EXTINF:-1 ,金昌综合频道
+http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8
+#EXTINF:-1 ,钦州综合频道
+http://live.gxqztv.com/cspd1/sd/live.m3u8
+#EXTINF:-1 ,铁齿铜牙纪晓岚
+http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,铜仁城市生活
+http://gztr.chinashadt.com:2036/live/stream:tr2.stream/playlist.m3u8
+#EXTINF:-1 ,铜仁生活
+http://gztr.chinashadt.com:2036/live/stream:tr2.stream/chunklist_w164009570.m3u8
+#EXTINF:-1 ,铜仁综合
+http://gztr.chinashadt.com:2036/live/stream:tr1.stream/playlist.m3u8
+#EXTINF:-1 ,铜仁综合
+http://gztr.chinashadt.com:2036/live/stream:tr1.stream/chunklist_w1316919395.m3u8
+#EXTINF:-1 ,银川公共
+http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8
+#EXTINF:-1 ,银川生活
+http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
+#EXTINF:-1 ,镇江城市资讯
+http://live.zjmc.tv/3/sd/live.m3u8
+#EXTINF:-1 ,镇江新闻时政
+http://live.zjmc.tv/1/sd/live.m3u8
+#EXTINF:-1 ,镇江民生频道
+http://live.zjmc.tv/2/sd/live.m3u8
+#EXTINF:-1 ,镇赉综合频道
+http://www.zlnews.cn:3000/hls/lgytgzab/index.m3u8
+#EXTINF:-1 ,长乐综合
+http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8
+#EXTINF:-1 ,长寿文化旅游
+http://qxlmlive.cbg.cn:1935/app_2/ls_75.stream/playlist.m3u8
+#EXTINF:-1 ,长寿综合频道
+http://qxlmlive.cbg.cn:1935/app_2/ls_63.stream/playlist.m3u8
+#EXTINF:-1 ,长春综合
+http://stream2.jlntv.cn/jlcc/sd/live.m3u8
+#EXTINF:-1 ,长沙公交移动
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_357.m3u8
+#EXTINF:-1 ,长沙地铁移动
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8
+#EXTINF:-1 ,长沙女性
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+#EXTINF:-1 ,长沙政法
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
+#EXTINF:-1 ,长沙新闻
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+#EXTINF:-1 ,长沙经贸
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
+#EXTINF:-1 ,长沙购物
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
+#EXTINF:-1 ,长治1台
+http://streaming.czgd.cn:8084/4b0bcd8509d748358b4450921fc3443b/h264_300k_ts/index.m3u8?type=hls_live_redirect
+#EXTINF:-1 ,长治2台
+http://streaming.czgd.cn:8084/7223161a96984d81b711d762d7e7fdd1/h264_300k_ts/index.m3u8?type=hls_live_redirect
+#EXTINF:-1 ,长治3台
+http://streaming.czgd.cn:8084/2b7f0174d0f44c34bf466fc0ab801a3a/h264_300k_ts/index.m3u8?type=hls_live_redirect
+#EXTINF:-1 ,长治公共频道
+http://streaming.czgd.cn:8084/7223161a96984d81b711d762d7e7fdd1/h264_300k_ts/index.m3u8?type=hls_live_redirect
+#EXTINF:-1 ,长治县电视台
+http://live.czmarathon.net/AppName/StreamName.m3u8?auth_key=1523524277-0-0-3d506be8cf5a3528296495cfe6788553
+#EXTINF:-1 ,长治县电视台
+http://live.czmarathon.net/AppName/StreamName.m3u8?auth_key=1523524277-0-0-3d506be8cf5a3528296495cfe6788553
+#EXTINF:-1 ,长治教育频道
+http://streaming.czgd.cn:8084/live/2b7f0174d0f44c34bf466fc0ab801a3a?fmt=h264_800k_flv
+#EXTINF:-1 ,长治新闻综合
+http://streaming.czgd.cn:8084/live/4b0bcd8509d748358b4450921fc3443b?fmt=h264_800k_flv
+#EXTINF:-1 ,长阳综合频道
+http://changyang.live.cjyun.org/video/s10114-cy1t/index.m3u8
+#EXTINF:-1 ,阜城综合频道
+http://hbfc.chinashadt.com:2036/live/2.stream/playlist.m3u8
+#EXTINF:-1 ,阳光卫视
+http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
+#EXTINF:-1 ,阳光卫视
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 ,阳光卫视
+http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
+#EXTINF:-1 ,阳江综合
+http://dslive.grtn.cn/yjzh/sd/live.m3u8
+#EXTINF:-1 ,阿坝综合频道
+http://118.122.239.157:1234/hls/hd-live.m3u8
+#EXTINF:-1 ,陕西
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225630/index.m3u8
+#EXTINF:-1 ,陕西体育休闲
+http://stream.snrtv.com/sxtvs-7.m3u8
+#EXTINF:-1 ,陕西卫视
+http://111.40.205.87/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 ,陕西卫视
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226079/index.m3u8
+#EXTINF:-1 ,陕西卫视
+http://stream.snrtv.com/sxtvs-star.m3u8
+#EXTINF:-1 ,陕西卫视
+http://ivi.bupt.edu.cn/hls/sxtv.m3u8
+#EXTINF:-1 ,陕西卫视
+http://39.134.52.184/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226021/index.m3u8
+#EXTINF:-1 ,陕西卫视
+http://223.82.250.72/live/shanxi1stv/1.m3u8
+#EXTINF:-1 ,陕西卫视
+http://121.31.30.90:8085/ysten-business/live/shanxi1stv/yst.m3u8
+#EXTINF:-1 ,陕西新闻资讯
+http://stream.snrtv.com/sxtvs-1.m3u8
+#EXTINF:-1 ,陕西洋县国宝朱鹮02
+https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+#EXTINF:-1 ,陕西洋县国宝朱鹮03
+https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
+#EXTINF:-1 ,陕西生活频道
+http://stream.snrtv.com/sxtvs-3.m3u8
+#EXTINF:-1 ,陕西都市青春
+http://stream.snrtv.com/sxtvs-2.m3u8
+#EXTINF:-1 ,陽光衛視
+http://stream.isuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 ,隆化影视频道
+http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+#EXTINF:-1 ,隆化综合频道
+http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8
+#EXTINF:-1 ,隋唐英雄传·销魂的暴君杨广
+https://aldirect.hls.huya.com/huyalive/29359996-2689637532-11551905238034153472-2847687564-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,随州综合
+http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8
+#EXTINF:-1 ,隰县新闻综合
+http://sxxx.chinashadt.com:2037/live/2.stream/playlist.m3u8
+#EXTINF:-1 ,集安综合频道
+http://stream2.jlntv.cn/ja/sd/live.m3u8
+#EXTINF:-1 ,雍正王朝
+https://txdirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,霍山综合频道
+http://ahhs.chinashadt.com:1936/live/stream:hs1.stream/playlist.m3u8
+#EXTINF:-1 ,青岛崂山八水河(回放)
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 ,青岛崂山双福
+https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+#EXTINF:-1 ,青岛崂山太清
+https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
+#EXTINF:-1 ,青岛崂山灵旗峰
+https://gccncc.v.wscdns.com/gc/qdls01_1/index.m3u8
+#EXTINF:-1 ,青州文化旅游
+http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
+#EXTINF:-1 ,青州生活频道
+http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
+#EXTINF:-1 ,青州综合频道
+http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
+#EXTINF:-1 ,青海卫视
+http://121.31.30.90:8085/ysten-business/live/qinghaistv/yst.m3u8
+#EXTINF:-1 ,青海卫视
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=206&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,青海卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=206&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,青海卫视
+http://121.31.30.90:8085/ysten-business/live/qinghaistv/1.m3u8
+#EXTINF:-1 ,青铜峡公共
+http://p2.vzan.cc/251549/131744787042090496/live.m3u8?uid=0&time=636672584751888967
+#EXTINF:-1 ,青铜峡公共
+http://p2.vzan.cc/251549/131744787042090496/live.m3u8?uid=0&time=636672584751888967
+#EXTINF:-1 ,靖江新闻綜合高清
+http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
+#EXTINF:-1 ,靖江新闻综合
+http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+#EXTINF:-1 ,靖江新闻高清
+http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
+#EXTINF:-1 ,静宁综合
+http://117.156.28.119/270000001111/1110000147/index.m3u8
+#EXTINF:-1 ,鞍山公共频道
+http://live2.asbctv.com/hls-live/livepkgr/_definst_/liveevent/6VD2t6OWb3SFZxUQL6FW0X7ojmndKJS9fdRjpdhgB71.m3u8
+#EXTINF:-1 ,鞍山图文频道
+http://live2.asbctv.com:8134/hls-live/livepkgr/_definst_/liveevent/3GtPeVD2t6OWb3SFZxUQL6FW0X7ojmndKJS9fdRjpdhgB71.m3u8
+#EXTINF:-1 ,馆陶综合
+http://hbgt.chinashadt.com:1935/live/stream:gtzh.stream_720p/playlist.m3u8
+#EXTINF:-1 ,馆陶美丽乡村
+http://hbgt.chinashadt.com:1935/live/stream:mlxc.stream_720p/playlist.m3u8
+#EXTINF:-1 ,黄冈公共频道
+http://huanggang.live.cjyun.org/video/s10120-xwgg.m3u8
+#EXTINF:-1 ,黄冈新闻频道
+http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
+#EXTINF:-1 ,黄山
+https://gccncc.v.wscdns.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1 ,黄岛健康频道
+http://xhalive.qwmedia.cn/hdratv-live/xha-jkpd.flv
+#EXTINF:-1 ,黄岛房车频道
+http://xhalive.qwmedia.cn/hdratv-live/xha-fcpd.flv
+#EXTINF:-1 ,黄岛新闻频道
+http://xhalive.qwmedia.cn/hdratv-live/xha-xwpd.flv
+#EXTINF:-1 ,黄岛生活频道
+http://xhalive.qwmedia.cn/hdratv-live/xha-shpd.flv
+#EXTINF:-1 ,黑龙江FHD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8
+#EXTINF:-1 ,黑龙江FHD
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8
+#EXTINF:-1 ,黑龙江FHD
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227323/index.m3u8
+#EXTINF:-1 ,黑龙江FHD
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/hdheilongjiangstv/1.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://httpdvb.slave.homed.hrtn.net/...&programid=4200000188.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://111.40.205.87/PLTV/88888888/224/3221225640/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=027&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://111.40.205.87/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://ivi.bupt.edu.cn/hls/hljtv.m3u8
+#EXTINF:-1 ,黑龙江卫视HD
+http://223.82.250.72/live/hdheilongjiangstv/1.m3u8
+#EXTINF:-1 ,黑龙江卫视HD
+http://121.31.30.90:8085/ysten-business/live/heilongjiangstv/yst.m3u8
+#EXTINF:-1 ,黑龙江卫视高清
+http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
+#EXTINF:-1 ,黔西南公共
+http://live.qxndt.com/channel3/sd/live.m3u8
+#EXTINF:-1 ,黔西南综合
+http://live.qxndt.com/channel2/sd/live.m3u8
+#EXTINF:-1 ,龙口图文频道
+http://yslk.chinashadt.com:1635/live/stream:di4.stream/playlist.m3u8
+#EXTINF:-1 ,龙口新闻综合
+http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8
+#EXTINF:-1 ,龙口生活频道
+http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
+#EXTINF:-1 ,龙岩公共频道
+http://stream.lytv.net.cn/1/sd/live.m3u8
+#EXTINF:-1 ,龙岩新闻综合
+http://stream.lytv.net.cn/2/sd/live.m3u8
